@@ -3,7 +3,7 @@ Creative Coding Syllabus &amp; Class repo
 
 * **Katherine Bennett, Visiting Assistant Professor**
 * **Email:Katherine.Bennett@nyu.edu**
-* **Office Hours: Tues + Thur 2:20-3pm, otherwise by appointment
+* **Office Hours: Tues + Thur 2:20-3pm, otherwise by appointment** 
 * **Office Location: NYU Media and Games Network, 2 Metrotech Center Room 884**
 
 ## Creative Coding: An Intro to Creative Coding
@@ -95,38 +95,42 @@ For matters longer than 5 sentences, please email me to make an appointment duri
 
 If I have asked you to schedule an appointment with me, I am not trying to avoid you. I am offering you my full attention and preparation. Due to my schedule and other campus responsibilities, I ask you to respond to emails and to be respectful of time.
 
-###Required Materials
+
+### Required Materials
 
 We will utilize a variety of tools to make this class successful and to create your class projects.
 
-• Texts and Readings:
+• [Learning Processing, SECOND EDITION by Daniel Shiffman] (http://learningprocessing.com/) ISBN-13: 978-0123944436 LP
 
-	• Learning Processing SECOND EDITION by Daniel Shiffman (purchase)
+• [Generative Design by Bohnacker, GroB, Laub & Lazzeroni](http://www.generative-gestaltung.de/about) ISBN-13: 978-1616890773 GD
 
-	• Generative Design by Hartmut Bohnacker, Benedikt Grob and Julia Laub (purchase)
 
-	• Additional links found on github.com 
+• [Processing] (https://processing.org/download/)
 
-	• Highly Recommended Texts:
-		• Make: Getting Started with P5.js by Lauren McCarthy
-		• Form + Code by Casey Reas and Chandler McWilliams
+• [P5.js](http://p5js.org/download/) Download P5.js complete
 
+• text editor - [Brackets] (http://brackets.io/), [Sublime](http://www.sublimetext.com/2), [TextWrangler](http://www.barebones.com/products/textwrangler/), or another favorite of yours
+
+• FTP Client - [Cyberduck] (https://cyberduck.io/?l=en), [Transmit] (https://panic.com/transmit/) (Mac only), [FileZilla] (https://filezilla-project.org/)
+
+• [Nature of Code] (http://p5js.org/download/) NoC
 
 • A Github account for yourself- https://github.com/ - email me your handle
-
-• Processing - http://processing.org/
-
-• P5.js - http://p5js.org/
-
-• Brackets - http://brackets.io/ - or Sublime Text - http://www.sublimetext.com/ - or your own favorite text editor
-
-• Proper utilization of resources outlined
-
-Please Note: Software is free to download. 
 
 • An external drive for backups
 
 • A notebook/sketchbook and a pen. At all times.
+
+• [Required Resources](dm113-B_Resources.md)
+
+
+• Highly Recommended Texts:
+		• Make: Getting Started with P5.js by Lauren McCarthy
+		• Form + Code by Casey Reas and Chandler McWilliams 
+
+Please Note: Software is free to download. 
+
+
 
 ### Course Structure
 
@@ -278,147 +282,6 @@ For each project your grade will be assessed upon the following: Principles, Cre
 
 The NYU Polytechnic School of Engineering Grading Policy can be found in the current Course Catalog.
 
-### Required Materials
-
-• [Learning Processing, SECOND EDITION by Daniel Shiffman] (http://learningprocessing.com/) ISBN-13: 978-0123944436 LP
-
-• [Generative Design by Bohnacker, GroB, Laub & Lazzeroni](http://www.generative-gestaltung.de/about) ISBN-13: 978-1616890773 GD
-
-• [Processing] (https://processing.org/download/)
-
-• [P5.js](http://p5js.org/download/) Download P5.js complete
-
-• text editor - [Brackets] (http://brackets.io/), [Sublime](http://www.sublimetext.com/2), [TextWrangler](http://www.barebones.com/products/textwrangler/), or another favorite of yours
-
-• FTP Client - [Cyberduck] (https://cyberduck.io/?l=en), [Transmit] (https://panic.com/transmit/) (Mac only), [FileZilla] (https://filezilla-project.org/)
-
-• [Nature of Code] (http://p5js.org/download/) NoC
-
-### Required Resources (links)
-• Github vs Linked in : http://www.ittybittyurl.com/32g6, http://www.ittybittyurl.com/32g7
-
-• http://lifedev.net/2008/07/programmer-creativity-boost/
-
-• http://learningprocessing.com/
-
-• https://github.com/shiffman/LearningProcessing-p5.js
-
-• https://github.com/shiffman/LearningProcessing
-
-• http://www.generative-gestaltung.de/code
-
-• http://formandcode.com/
-
-• http://natureofcode.com/
-
-• https://github.com/processing/p5.js
-
-• Douglas Rushkoff’s Program or Be Programmed (emailed)
-
-
-### Fabulous References and Supporting Resources
-#### Programming (general) and other languages
-
-• http://worrydream.com/LearnableProgramming/
-
-• http://www.udacity.com/
-
-• http://www.codeschool.com/
-
-• Code Academy - http://www.codecademy.com/#!/exercises/0
-
-• https://coderwall.com/
-
-• http://www.ittybittyurl.com/32g9 <-- list of online references and learning places for programming
-
-• http://projecteuler.net/problems
-
-• http://teamtreehouse.com/library
-
-• http://www.openframeworks.cc/tutorials/
-
-• http://www.openframeworks.cc/
-
-• http://www.openframeworks.cc/documentation/
-
-• http://wiki.openframeworks.cc/index.php?title=Main_Page
-
-• http://ofxaddons.com/
-
-• http://learnpythonthehardway.org/
-
-• http://ruby.learncodethehardway.org/
-
-• http://codingbat.com/ (Python and Java)
-
-• http://inventwithpython.com/
-
-• http://creativejs.com/2011/08/31-days-of-canvas-tutorials/
-
-#### Processing
-
-• [Learning Processing (Daniel Shiffman, video lectures)](http://icm.shiffman.net/) [More video's here](http://learningprocessing.com/videos/) [and even more here] (https://vimeo.com/shiffman)
-
-• [Nature of Code (Daniel Shiffman, video lectures)](https://vimeo.com/channels/natureofcode/videos/page:1/sort:preset)
-
-• http://funprogramming.org/
-
-• http://forum.processing.org/
-
-• http://processing.org/learning/
-
-• http://www.learningprocessing.com/tutorials/
-
-• http://www.plethora-project.com/2011/09/12/processing-tutorials/
-
-• http://flowingdata.com/2010/04/13/data-visualization-tutorial-in-processing/
-
-• http://www.lynda.com/Processing-training-tutorials/1402-0.html
-
-###P5.js
-
-• https://github.com/shiffman/LearningProcessing-p5.js
-
-• http://p5js.org/
-
-• http://p5js.org/tutorials/
-
-• http://gitbookio.gitbooks.io/javascript/content/
-
-###Text Editors
-
-• [Brackets](https://github.com/adobe/brackets/wiki/How-to-Use-Brackets)
-
-• [Sublime](https://scotch.io/bar-talk/the-complete-visual-guide-to-sublime-text-3-getting-started-and-keyboard-shortcuts)
-
-
-####openFrameworks
-
-• https://sites.google.com/site/ofauckland/home
-
-• https://github.com/jefftimesten/CodeForArt
-
-• https://github.com/openframeworks/openFrameworks/wiki/Tutorials,-Examples-and-Documentation
-
-• http://www.quietless.com/kitchen/getting-started-with-openframeworks/
-
-• http://www.memo.tv/simple-openframeworks-application-on-iphone-sample-1/
-
-####Git
-
-• http://gitref.org/
-
-• http://ndpsoftware.com/git-cheatsheet.html#loc=local_repo;
-
-• http://git-scm.com/docs
-
-• http://rogerdudler.github.com/git-guide/
-
-• http://www.lynda.com/GitHub-training-tutorials/1384-0.html
-
-####Xcode
-
-• http://www.lynda.com/Xcode-training-tutorials/451-0.html
 
 #### Twitter Resources and Inspiration
 
