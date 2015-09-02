@@ -124,9 +124,9 @@ We will utilize a variety of tools to make this class successful and to create y
 • [Required Resources](dm113-B_Resources.md)
 
 
-• Highly Recommended Texts:
-		• Make: Getting Started with P5.js by Lauren McCarthy
-		• Form + Code by Casey Reas and Chandler McWilliams 
+• <ul>Highly Recommended Texts: <li>
+		• Make: Getting Started with P5.js by Lauren McCarthy</li><li>
+		• Form + Code by Casey Reas and Chandler McWilliams </li></ul>
 
 Please Note: Software is free to download. 
 

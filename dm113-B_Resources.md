@@ -1,4 +1,4 @@
-### Required Resources (links)
+### Required Resources 
 • Github vs Linked in : http://www.ittybittyurl.com/32g6, http://www.ittybittyurl.com/32g7
 
 • http://lifedev.net/2008/07/programmer-creativity-boost/
