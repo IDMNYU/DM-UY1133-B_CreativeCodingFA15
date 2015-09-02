@@ -125,8 +125,8 @@ We will utilize a variety of tools to make this class successful and to create y
 
 
 <ul>Highly Recommended Texts: <li>
-		Make: Getting Started with P5.js by Lauren McCarthy</li><li>
-		Form + Code by Casey Reas and Chandler McWilliams </li></ul>
+		[Make: Getting Started with P5.js by Lauren McCarthy](http://www.amazon.com/Make-Interactive-Graphics-JavaScript-Processing/dp/1457186772)</li><li>
+		[Form + Code by Casey Reas and Chandler McWilliams](http://www.amazon.com/Form-Code-Design-Architecture-Briefs/dp/1568989377/ref=sr_1_1?s=books&ie=UTF8&qid=1441209576&sr=1-1&keywords=Form+%2B+Code) </li></ul>
 
 Please Note: Software is free to download. 
 
