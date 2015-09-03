@@ -1,8 +1,8 @@
-# Calendar for DM-UY1133-B_Creative Coding FA15
+# Calendar for DM-UY1133-B Creative Coding FA15
 Creative Coding Syllabus &amp; Class repo
 
 * **Katherine Bennett, Visiting Assistant Professor**
-* **Email:Katherine.Bennett@nyu.edu ** Helen Carey (GA) helencarey@nyu.edu **
+* **Email:Katherine.Bennett@nyu.edu   Helen Carey (GA) helencarey@nyu.edu **
 * **Office Hours: Tues + Thur 2:20-3pm, otherwise by appointment** 
 * **Office Location: NYU Media and Games Network, 2 Metrotech Center Room 884**
 
@@ -10,11 +10,20 @@ Creative Coding Syllabus &amp; Class repo
 
 <table>
 <tr>
-Week 1: Sept 3 & Sept 8 - Introductions & Processing
+	<td>
+		Week 1: Sept 3 & Sept 8 - Introductions & Processing
+		</td>
 </tr>
 
-	- Sept 3 Thursday: Introduction to Course + Processing
+<tr>
+<td>
 
+	 Sept 3 Thursday: Introduction to Course + Processing
+	 </td>
+</tr>
+
+<tr>
+<td>
 		- Introductions 
 		- Course Outline
 		- Expectancies
@@ -34,7 +43,8 @@ Week 1: Sept 3 & Sept 8 - Introductions & Processing
 		- Your sketchbook
 		- An overview of the environment.
 		- A lightning-fast introduction to Processing code.
-
+</td>
+<td>
 	Homework:
 		- Get a Github account
 		- Email me your handle (ie, GitHub name/login) from your NYU acct
@@ -44,6 +54,8 @@ Week 1: Sept 3 & Sept 8 - Introductions & Processing
 			- [Programming, Creative Boost](http://lifedev.net/2008/07/programmer-creativity-boost/)
 			- PI - Ch. 2 - (on Basecamp)
 			- Install [Processing](https://processing.org/download/). Go through the examples in Processing and play with them.
+			</td>
+</tr>
 
 	- Sept 8 Tuesday: Intro to Processing II
 		- overall structure: setup() and draw().
