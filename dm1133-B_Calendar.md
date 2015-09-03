@@ -23,7 +23,7 @@ Creative Coding Syllabus &amp; Class repo
 </tr>
 
 <tr>
-<td style=width:"100%">
+<td rowspan= "0%">
 
 	 Sept 3 Thursday: Introduction to Course + Processing
 	 </td>
