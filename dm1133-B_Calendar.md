@@ -115,6 +115,7 @@ Creative Coding Syllabus &amp; Class repo
 		- Read:
 			- LP - Ch. 0-2
 </td>
+</tr>
 
 
 	- Sept 15 Tuesday: EXERCISE 2 DUE (Last Day to Drop Without a "W")
