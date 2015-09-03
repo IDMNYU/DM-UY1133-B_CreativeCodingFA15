@@ -12,24 +12,24 @@ Creative Coding Syllabus &amp; Class repo
 <table>
 
 <tr>
-<td style=width:"40%"> <strong>In-Class </strong></td>
-<td style=width:"60%"> <strong>For Homework </strong></td>
+<td > <strong>In-Class </strong></td>
+<td > <strong>For Homework </strong></td>
 </tr>
 
 <tr>
-	<td rowspan= "2">
+	<td >
 		Week 1: Sept 3 & Sept 8 - Introductions & Processing
 	</td>
 </tr>
 
 <tr>
-<td rowspan= "2">
+<td >
 
 	 Sept 3 Thursday: Introduction to Course + Processing
 	 </td>
 </tr>
 <tr>
-<td style=width:"40%">
+<td >
 <ul>
 
 		<li> Introductions 
