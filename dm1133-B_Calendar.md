@@ -12,8 +12,9 @@ Creative Coding Syllabus &amp; Class repo
 <table>
 
 <tr>
-<td style=width:"50%"> <strong>In-Class </strong></td>
-<td style=width:"50%"> <strong>For Homework </strong></td>
+<td style=width:"33.3%"> <strong> Date </strong></td>
+<td style=width:"33.3%"> <strong>In-Class </strong></td>
+<td style=width:"33.3"> <strong>For Homework </strong></td>
 </tr>
 
 
