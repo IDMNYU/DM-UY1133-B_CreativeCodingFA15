@@ -20,15 +20,16 @@ Creative Coding Syllabus &amp; Class repo
 	<td style=width:"100%">
 		Week 1: Sept 3 & Sept 8 - Introductions & Processing
 	</td>
-</tr>
 
+
+</tr>
 <tr>
-<td style=width:"100%">
+<td>
 
 	 Sept 3 Thursday: Introduction to Course + Processing
 	 </td>
-</tr>
-<tr>
+
+
 <td style=width:"50%">
 <ul>
 
@@ -68,9 +69,10 @@ Creative Coding Syllabus &amp; Class repo
 </tr>
 
 <tr>
+<td>
 	 Sept 8 Tuesday: Intro to Processing II
-	 </tr>
-	 <tr>
+	 </td>
+	 
 	 <td>
 		- overall structure: setup() and draw().
 		- drawing primitives: line(), ellipse(), rect().
@@ -94,13 +96,16 @@ Creative Coding Syllabus &amp; Class repo
 
 
 
-<tr>	Week 2: Sept 10 & Sept 15 - Github, Text Editors, P5.js, loops
+<tr>	
+<td>
+Week 2: Sept 10 & Sept 15 - Github, Text Editors, P5.js, loops </td>
 </tr>
 
-	<tr> Sept 10 Thursday: EXERCISE 1 DUE
-		Intro to Github + P5.js + text editors, loops, Show + Tell </tr>
+	<tr>
+	<td> Sept 10 Thursday: EXERCISE 1 DUE
+		Intro to Github + P5.js + text editors, loops, Show + Tell </td>
 
-<tr>
+
 <td>
 		- Blind Drawing Exercise
 		- Intro to Github; Push homework to cloned repo (your personal repo)
@@ -109,7 +114,7 @@ Creative Coding Syllabus &amp; Class repo
 		- Pseudo code & comments & println()
 </td>
 <td>
-	Homework:
+	
 		- Exercise 2: Redraw Crop from Kandinsky's Composition 8 (see resources). First select an interesting/ambitious crop, then load it into a program such as Photoshop or Illustrator to read the color and coordinate data. Use integer values for coordinates and only use the following functions for drawing: line(), triangle(), quad(), rect(), ellipse(), arc(), and beginShape(), endShape(), vertex().
 		
 		- Read:
@@ -117,24 +122,27 @@ Creative Coding Syllabus &amp; Class repo
 </td>
 </tr>
 
+<tr>
+<td>
+	Sept 15 Tuesday: EXERCISE 2 DUE (Last Day to Drop Without a "W")
+		More Basics </td>
 
-	- Sept 15 Tuesday: EXERCISE 2 DUE (Last Day to Drop Without a "W")
-		More Basics
-
+<td>
 		- Variables, Scope + Control Statements, Logical Operators + Loops
 		- Nested loops
 		- Show + Tell
 		- Studio time: Exercise 3
-
-	Homework:
-		- Read:
+		</td>
+<td>
+			- Read:
 			- LP - Ch. 3
 			- GD - P.0, P.1.2.3 - P.2.1.3
 
 		- Exercise 3: Repetition: Modularity, Pattern
 		Create 3 different forms and create 4 different patterns. Consider how the form fits with other forms. Also consider different rhythms that you can make with spacing, direction/orientation and repetition. Work using shape, color and the grid to form your 4 different patterns.
 
-
+</td>
+</tr>
 
 
 
