@@ -11,8 +11,8 @@ Creative Coding Syllabus &amp; Class repo
 <table style="width:100%">
 
 <tr>
-<td width="50%"> In-Class</td>
-<td width="50%"> For Homework </td>
+<th width="50%"> In-Class</th>
+<th width="50%"> For Homework </th>
 </tr>
 
 <tr>
