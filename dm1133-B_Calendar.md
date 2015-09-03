@@ -51,7 +51,7 @@ Creative Coding Syllabus &amp; Class repo
 	</ul>
 </td>
 <td style=width:"50%">
-	Homework:
+	
 		<li>Get a <a href = https://github.com/>Github account</a></li>
 		<li>Email me your handle (ie, GitHub name/login) from your NYU acct</li>
 		<li>Fwd your NYU email account to personal acct, if need be</li>
@@ -69,24 +69,28 @@ Creative Coding Syllabus &amp; Class repo
 	 </td>
 	 
 	 <td>
-		- overall structure: setup() and draw().
-		- drawing primitives: line(), ellipse(), rect().
-		- graphics state: strokeWeight(), stroke(), fill(), smooth().
-		- color, transparency.
-		- time: millis(), frameCount()
-		- interaction: mousePressed(), mouseX, keyPressed()
-		- graphic transformations: translate(), scale(), pushMatrix(), etc.
-		- mathematics: random(), map(), noise()
+	 <ul>
+		<li> overall structure: setup() and draw(). </li>
+		<li> drawing primitives: line(), ellipse(), rect(), etc </li>
+		<li> graphics state: strokeWeight(), stroke(), fill(), smooth().</li>
+		<li> color, transparency.</li>
+		<li>time: millis(), frameCount()</li>
+		<li>interaction: mousePressed(), mouseX, keyPressed()</li>
+		<li>graphic transformations: translate(), scale(), pushMatrix(), etc.</li>
+		<li>mathematics: random(), map(), noise()</li>
+		</ul>
 </td>
 <td>
-	Homework:
-		- Install Github for Mac/Windows, P5.js, Brackets, Sublime
-		- Exercise 1: Monster
+	<ul>
+		<li>Install Github for Mac/Windows, P5.js, Brackets, Sublime</li>
+		<li>Exercise 1: Monster
 			Write a program that creates a monster. Use 5 different colors and 7 different shapes (minimum)
 
-		- Read:
-			- [Git Hub vs Linked In](http://www.cnet.com/news/forget-linkedin-companies-turn-to-github-to-find-tech-talent/)
-			- [The 10 Algorithms that Dominate](http://io9.com/the-10-algorithms-that-dominate-our-world-1580110464)
+		<li>Read:
+			<a href= "http://www.cnet.com/news/forget-linkedin-companies-turn-to-github-to-find-tech-talent/">Git Hub vs Linked In </a> 
+			<a href = "http://io9.com/the-10-algorithms-that-dominate-our-world-1580110464">The 10 Algorithms that Dominate </a>
+			</li>
+			</ul>
 </td>
 
 
@@ -96,39 +100,45 @@ Creative Coding Syllabus &amp; Class repo
 
 
 <td>
-		- Blind Drawing Exercise
-		- Intro to Github; Push homework to cloned repo (your personal repo)
-		- Intro to P5.js + Text Editors
-		- Variables, Scope + Control Statements, Logical Operators + Loops
-		- Pseudo code & comments & println()
+<ul>
+		<li> Blind Drawing Exercise </li>
+		<li>Intro to Github; Push homework to cloned repo (your personal repo)</li>
+		<li> Intro to P5.js + Text Editors </li>
+		<li> Variables, Scope + Control Statements, Logical Operators + Loops</li>
+		<li> Pseudo code & comments & println()</li>
+		</ul>
 </td>
 <td>
+<ul>
 	
-		- Exercise 2: Redraw Crop from Kandinsky's Composition 8 (see resources). First select an interesting/ambitious crop, then load it into a program such as Photoshop or Illustrator to read the color and coordinate data. Use integer values for coordinates and only use the following functions for drawing: line(), triangle(), quad(), rect(), ellipse(), arc(), and beginShape(), endShape(), vertex().
+		<li>Exercise 2: Redraw Crop from Kandinsky's Composition 8 (see resources). First select an interesting/ambitious crop, then load it into a program such as Photoshop or Illustrator to read the color and coordinate data. Use integer values for coordinates and only use the following functions for drawing: line(), triangle(), quad(), rect(), ellipse(), arc(), and beginShape(), endShape(), vertex(). </li>
 		
-		- Read:
-			- LP - Ch. 0-2
+		<li> Read: LP - Ch. 0-2 </li>
+		</ul>
 </td>
 </tr>
 
 <tr>
 <td>
-	Week 2: Sept 15 Tuesday: EXERCISE 2 DUE (Last Day to Drop Without a "W")
+	Week 2: Sept 15 Tuesday: <strong>EXERCISE 2 DUE</strong> <br><strong> (Last Day to Drop Without a "W")</strong>
 		More Basics </td>
 
 <td>
-		- Variables, Scope + Control Statements, Logical Operators + Loops
-		- Nested loops
-		- Show + Tell
-		- Studio time: Exercise 3
+<ul>
+		<li>Variables, Scope + Control Statements, Logical Operators + Loops</li>
+		<li> Nested loops</li>
+		<li>Show + Tell</li>
+		<li>Studio time: Exercise 3 </li>
+		</ul>
 		</td>
 <td>
-			- Read:
-			- LP - Ch. 3
-			- GD - P.0, P.1.2.3 - P.2.1.3
+<ul>
+			<li> Read: LP - Ch. 3 </li>
+			<li> Read: GD - P.0, P.1.2.3 - P.2.1.3 </li>
 
-		- Exercise 3: Repetition: Modularity, Pattern
-		Create 3 different forms and create 4 different patterns. Consider how the form fits with other forms. Also consider different rhythms that you can make with spacing, direction/orientation and repetition. Work using shape, color and the grid to form your 4 different patterns.
+		<li> Exercise 3: Repetition: Modularity, Pattern <br>
+		Create 3 different forms and create 4 different patterns. Consider how the form fits with other forms. Also consider different rhythms that you can make with spacing, direction/orientation and repetition. Work using shape, color and the grid to form your 4 different patterns. </li>
+		</ul>
 
 </td>
 </tr>
