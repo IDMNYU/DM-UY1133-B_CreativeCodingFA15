@@ -8,7 +8,7 @@ Creative Coding Syllabus &amp; Class repo
 
 ## CALENDAR
 
-<table style="width:100%">
+<table>
 
 <tr>
 <th width="50%"> In-Class</th>
