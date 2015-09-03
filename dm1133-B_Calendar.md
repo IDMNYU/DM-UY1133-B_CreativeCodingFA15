@@ -17,13 +17,13 @@ Creative Coding Syllabus &amp; Class repo
 </tr>
 
 <tr>
-	<td rowspan= "0">
+	<td rowspan= "2">
 		Week 1: Sept 3 & Sept 8 - Introductions & Processing
 	</td>
 </tr>
 
 <tr>
-<td rowspan= "0">
+<td rowspan= "2">
 
 	 Sept 3 Thursday: Introduction to Course + Processing
 	 </td>
