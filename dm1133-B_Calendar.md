@@ -12,7 +12,7 @@ Creative Coding Syllabus &amp; Class repo
 <table>
 
 <tr>
-<td > <strong>In-Class </strong></td>
+<td width = "50%"> <strong>In-Class </strong></td>
 <td > <strong>For Homework </strong></td>
 </tr>
 
@@ -29,7 +29,7 @@ Creative Coding Syllabus &amp; Class repo
 	 </td>
 </tr>
 <tr>
-<td >
+<td width = "50%">
 <ul>
 
 		<li> Introductions 
@@ -54,7 +54,7 @@ Creative Coding Syllabus &amp; Class repo
 		<li>A lightning-fast introduction to Processing code.</li>
 	</ul>
 </td>
-<td style=width:"60%">
+<td style=width:"50%">
 	Homework:
 		<li>Get a <a href = https://github.com/>Github account</a></li>
 		<li>Email me your handle (ie, GitHub name/login) from your NYU acct</li>
