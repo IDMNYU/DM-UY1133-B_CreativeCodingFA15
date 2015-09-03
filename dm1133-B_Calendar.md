@@ -59,15 +59,19 @@ Creative Coding Syllabus &amp; Class repo
 		<li>Get a <a href = https://github.com/>Github account</a></li>
 		<li>Email me your handle (ie, GitHub name/login) from your NYU acct</li>
 		<li>Fwd your NYU email account to personal acct, if need be</li>
-		<li>Read:
-			<li>Rushkoff’s Program or Be Programmed - Ch. 1 (on Basecamp)</li>
-			<li><a href = http://lifedev.net/2008/07/programmer-creativity-boost> Programming, Creative Boost </a></li>
-			<li>PI - Ch. 2 - (on Basecamp)</li>
-			<li>Install <a href = https://processing.org/download/>Processing</a>. Go through the examples in Processing and play with them.</li></li>
+		
+			<li>Read: Rushkoff’s Program or Be Programmed - Ch. 1 (on Basecamp)</li>
+			<li>Read: <a href = http://lifedev.net/2008/07/programmer-creativity-boost> Programming, Creative Boost </a></li>
+			<li>Read: PI - Ch. 2 - (on Basecamp)</li>
+			<li>Install <a href = https://processing.org/download/>Processing</a>. Go through the examples in Processing and play with them.</li>
 			</td>
 </tr>
 
-	- Sept 8 Tuesday: Intro to Processing II
+<tr>
+	 Sept 8 Tuesday: Intro to Processing II
+	 </tr>
+	 <tr>
+	 <td>
 		- overall structure: setup() and draw().
 		- drawing primitives: line(), ellipse(), rect().
 		- graphics state: strokeWeight(), stroke(), fill(), smooth().
@@ -76,7 +80,8 @@ Creative Coding Syllabus &amp; Class repo
 		- interaction: mousePressed(), mouseX, keyPressed()
 		- graphic transformations: translate(), scale(), pushMatrix(), etc.
 		- mathematics: random(), map(), noise()
-
+</td>
+<td>
 	Homework:
 		- Install Github for Mac/Windows, P5.js, Brackets, Sublime
 		- Exercise 1: Monster
@@ -85,27 +90,31 @@ Creative Coding Syllabus &amp; Class repo
 		- Read:
 			- [Git Hub vs Linked In](http://www.cnet.com/news/forget-linkedin-companies-turn-to-github-to-find-tech-talent/)
 			- [The 10 Algorithms that Dominate](http://io9.com/the-10-algorithms-that-dominate-our-world-1580110464)
+</td>
 
 
 
+<tr>	Week 2: Sept 10 & Sept 15 - Github, Text Editors, P5.js, loops
+</tr>
 
--	Week 2: Sept 10 & Sept 15 - Github, Text Editors, P5.js, loops
+	<tr> Sept 10 Thursday: EXERCISE 1 DUE
+		Intro to Github + P5.js + text editors, loops, Show + Tell </tr>
 
-	- Sept 10 Thursday: EXERCISE 1 DUE
-		Intro to Github + P5.js + text editors, loops, Show + Tell
-
+<tr>
+<td>
 		- Blind Drawing Exercise
 		- Intro to Github; Push homework to cloned repo (your personal repo)
 		- Intro to P5.js + Text Editors
 		- Variables, Scope + Control Statements, Logical Operators + Loops
 		- Pseudo code & comments & println()
-
+</td>
+<td>
 	Homework:
 		- Exercise 2: Redraw Crop from Kandinsky's Composition 8 (see resources). First select an interesting/ambitious crop, then load it into a program such as Photoshop or Illustrator to read the color and coordinate data. Use integer values for coordinates and only use the following functions for drawing: line(), triangle(), quad(), rect(), ellipse(), arc(), and beginShape(), endShape(), vertex().
 		
 		- Read:
 			- LP - Ch. 0-2
-
+</td>
 
 
 	- Sept 15 Tuesday: EXERCISE 2 DUE (Last Day to Drop Without a "W")
