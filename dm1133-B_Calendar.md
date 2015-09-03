@@ -16,17 +16,11 @@ Creative Coding Syllabus &amp; Class repo
 <td style=width:"50%"> <strong>For Homework </strong></td>
 </tr>
 
-<tr>
-	<td style=width:"100%">
-		Week 1: Sept 3 & Sept 8 - Introductions & Processing
-	</td>
 
-
-</tr>
 <tr>
 <td>
 
-	 Sept 3 Thursday: Introduction to Course + Processing
+	 Week 1: Sept 3 Thursday: Introduction to Course + Processing
 	 </td>
 
 
@@ -70,7 +64,7 @@ Creative Coding Syllabus &amp; Class repo
 
 <tr>
 <td>
-	 Sept 8 Tuesday: Intro to Processing II
+	 Week 1: Sept 8 Tuesday: Intro to Processing II
 	 </td>
 	 
 	 <td>
@@ -95,14 +89,8 @@ Creative Coding Syllabus &amp; Class repo
 </td>
 
 
-
-<tr>	
-<td>
-Week 2: Sept 10 & Sept 15 - Github, Text Editors, P5.js, loops </td>
-</tr>
-
-	<tr>
-	<td> Sept 10 Thursday: EXERCISE 1 DUE
+<tr>
+	<td> Week 2: Sept 10 Thursday: EXERCISE 1 DUE
 		Intro to Github + P5.js + text editors, loops, Show + Tell </td>
 
 
@@ -124,7 +112,7 @@ Week 2: Sept 10 & Sept 15 - Github, Text Editors, P5.js, loops </td>
 
 <tr>
 <td>
-	Sept 15 Tuesday: EXERCISE 2 DUE (Last Day to Drop Without a "W")
+	Week 2: Sept 15 Tuesday: EXERCISE 2 DUE (Last Day to Drop Without a "W")
 		More Basics </td>
 
 <td>
