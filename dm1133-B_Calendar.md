@@ -9,10 +9,16 @@ Creative Coding Syllabus &amp; Class repo
 ## CALENDAR
 
 <table>
+
+<tr>
+<td width = "100%"> In-Class</td>
+<td> For Homework </td>
+</tr>
+
 <tr>
 	<td>
 		Week 1: Sept 3 & Sept 8 - Introductions & Processing
-		</td>
+	</td>
 </tr>
 
 <tr>
