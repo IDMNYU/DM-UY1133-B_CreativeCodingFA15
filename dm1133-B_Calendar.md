@@ -21,7 +21,7 @@ Creative Coding Syllabus &amp; Class repo
 <tr>
 <td>
 
-	 Week 1: Sept 3 Thursday: Introduction to Course + Processing
+	 Week 1: Sept 3 <br> Thursday<br> Introduction to Course + Processing
 	 </td>
 
 
@@ -65,7 +65,7 @@ Creative Coding Syllabus &amp; Class repo
 
 <tr>
 <td>
-	 Week 1: Sept 8 Tuesday: Intro to Processing II
+	 Week 1: Sept 8 <br> Tuesday <br> Intro to Processing II
 	 </td>
 	 
 	 <td>
@@ -95,7 +95,7 @@ Creative Coding Syllabus &amp; Class repo
 
 
 <tr>
-	<td> Week 2: Sept 10 Thursday: EXERCISE 1 DUE
+	<td> Week 2: Sept 10 <br> Thursday<br> <strong> EXERCISE 1 DUE </strong>
 		Intro to Github + P5.js + text editors, loops, Show + Tell </td>
 
 
@@ -120,7 +120,7 @@ Creative Coding Syllabus &amp; Class repo
 
 <tr>
 <td>
-	Week 2: Sept 15 Tuesday: <strong>EXERCISE 2 DUE</strong> <br><strong> (Last Day to Drop Without a "W")</strong>
+	Week 2: Repeat <br> Sept 15 <br> Tuesday <br> <strong>EXERCISE 2 DUE</strong> <br><strong> (Last Day to Drop Without a "W")</strong><br>
 		More Basics </td>
 
 <td>
@@ -143,84 +143,122 @@ Creative Coding Syllabus &amp; Class repo
 </td>
 </tr>
 
+<tr>
+	<td> Week 3: Repeat <br> Sept 17 <br> Thursday <br> Motion, Random, Functions + passing parameters, matrix transformations </td>
+
+	<td>
+
+		 In-Class Challenge
+	</td>
+
+	<td>
+		<ul>
+
+		<li> Project 1 - begin working on initial stages. <br> Use only the drawing functions - stuff found in the Shape, Color, Events and Math sections. Create custom functions that are triggered on some event, and make those functions vary. <br>
+		- Push Project 1 progress to your Github </li>
+		<li> Read: LP - Ch. 4 - 6 </li>
+
+		</ul>
+	</td>
+	</tr>
+
+<tr>
+<td>
+	Week 3: Repeat <br> Sept 22 Tuesday:  Functions: Resuability & Modularity; Interaction
+</td>
+<td>
+	<ul>
+
+		<li> Push Project 1 progress to your Github</li>
+		<li> Show + Tell </li>
+	</ul>
+</td>
+<td>
+	<ul>
+		<li> Project 1 - continue working, incorporating custom functions, motion and matrix transformation. Create custom functions that are triggered on some event, and make those functions vary. The focus of this project is procedural intensity. How expressive can you be with only line, shapes, color and movement? </li>
+
+		<li> Read: LP - Ch. 7 </li>
+		</ul>
+	</td>
 
 
--	Week 3: Sept 17 & Sept 22 - More programming Fundamentals
 
-	- Sept 17 Thursday: Motion, Random, Functions + passing parameters, matrix transformations
 
-		- In-Class Challenge
+<tr>
+
+<td>
+	Week 4: Parameterize <br> Sept 24 Thursday </td>
+	<td>
+	Arrays, Control </td>
+
+<td>
+	<ul>
+		<li> Read: LP - Ch. 9 - 10</li>
+		<li> Project 1 <br> Use only the drawing functions - stuff found in the Shape, Color, Events and Math sections. Create custom functions that are triggered on some event, and make those functions vary. The focus of this project is procedural intensity. How expressive can you be with only line, shapes, color and movement? </li>
+</ul>
+</td>
+
+</tr>
+
+
+<tr>
+	<td>
+	Week 4: Parameterize <br> Sept 29 Tuesday </td>
+	<td> Modulo, Variation, Matrix transformations 
+		<ul>
+		<li> Show + Tell </li>
+		<li> In-Class Challenge </li>
+		</ul>
+	</td>
+
+	<td>
+		<ul>
+		<li> Project 1 <br> Code must be 100 lines or more, not including spacing, comments or commented out code. </li>
+
+		<li> Read: LP - 13, 14 </li>
+		<li>Read: GD - M.1 - M.1.5 </li>
+		</ul>
+	</td>
+</tr>
 		
 
-	Homework:
-		- Project 1 - begin working on initial stages. Use only the drawing functions - stuff found in the Shape, Color, Events and Math sections. Create custom functions that are triggered on some event, and make those functions vary.
-		- Push Project 1 progress to your Github
-		- Read:
-			- LP - Ch. 4 - 6
-	
 
-	- Sept 22 Tuesday:  Functions: Resuability & Modularity; Interaction
-		- Push Project 1 progress to your Github
-		- Show + Tell
+<tr>
 
-	Homework:
-		- Project 1 - continue working, incorporating custom functions, motion and matrix transformation. Create custom functions that are triggered on some event, and make those functions vary. The focus of this project is procedural intensity. How expressive can you be with only line, shapes, color and movement?
+<td>
+	Week 5: Transform <br> Oct 1 Thursday <br> Images + Text </td>
+	<td>
 
-		- Read:
-			- LP - Ch. 7
+		Loading, positioning, overlay of images and text
+		</td>
 
+	<td>
+	<ul> 
+				<li> Read: LP - Ch. 15, 17</li>
+				<li> Read: GD - P.2.3.3, P.3, P.4</li>
+				<li> Finish Project 1 </li>
+				</ul>
+	</td>		
+</tr>
 
-
-
-- Week 4: Sept 24 & Sept 29 - Parameterize: Control, Arrays, Modulo, Variation
-
-	- Sept 24 Thursday: Arrays, Control
-
-	Homework:
-		- Read: LP - Ch. 9 - 10
-
-		- Project 1 - Use only the drawing functions - stuff found in the Shape, Color, Events and Math sections. Create custom functions that are triggered on some event, and make those functions vary. The focus of this project is procedural intensity. How expressive can you be with only line, shapes, color and movement?
-
-
-	- Sept 29 Tuesday: Modulo, Variation, Matrix transformations
-		- Show + Tell
-		- In-Class Challenge
-
-	Homework:
-		- Project 1 - Code must be 100 lines or more, not including spacing, comments or commented out code.
-
-		- Read: 
-			- LP - 13, 14
-			- GD - M.1 - M.1.5
-		
-			
-
-
-
-- Week 5: Oct 1 & Oct 6 - Transform: Image + Text
-
-	- Oct 1 Thursday: Images + Text
-		- Loading, positioning, overlay
-		- Text 
-
-		Homework:
-			- Read: 
-				- LP - Ch. 15, 17
-				- GD - P.2.3.3, P.3, P.4
-			- Finish Project 1
-
-
-	- Oct 6 Tuesday: PROJECT 1 DUE on GitHub; Transform: Pixel manipulation, averaging, slit-scanning
+<tr>
+<td>
+	Week 5: Transform <br> Oct 6 Tuesday <br> <strong> PROJECT 1 DUE on GitHub </strong>
+</td>
+	<td> Transform: Pixel manipulation, averaging, slit-scanning
 		- Demo/Workshop
 		- Show + Tell
+		</td>
 
-	Homework:
-		- Read:
-			- Exercise 3: Collage + Manipulation
-			- Read: http://www.flong.com/texts/lists/slit_scan/
-			-  Sign up for One-on-One reviews with me during my office hours. (Link forthcoming)
-			- Write your midterm Self Assessment
-
+	<td>
+		<ul>
+			<li> Exercise 3: Collage + Manipulation </li>
+			<li><a href= "http://www.flong.com/texts/lists/slit_scan/"> Read: Golan Levin's Essay on Slit Scanning </a> </li>
+			<li> Sign up for One-on-One reviews with me during my office hours. (Link forthcoming) </li>
+			<li>Write your midterm Self Assessment</li>
+		</ul>
+ </td>
+ </tr>
 
 
 
