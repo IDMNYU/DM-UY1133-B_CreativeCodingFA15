@@ -1,4 +1,17 @@
-- Week 1: Sept 3 & Sept 8 - Introductions & Processing
+# Calendar for DM-UY1133-B_Creative Coding FA15
+Creative Coding Syllabus &amp; Class repo
+
+* **Katherine Bennett, Visiting Assistant Professor**
+* **Email:Katherine.Bennett@nyu.edu ** Helen Carey (GA) helencarey@nyu.edu **
+* **Office Hours: Tues + Thur 2:20-3pm, otherwise by appointment** 
+* **Office Location: NYU Media and Games Network, 2 Metrotech Center Room 884**
+
+## CALENDAR
+
+<table>
+<tr>
+Week 1: Sept 3 & Sept 8 - Introductions & Processing
+</tr>
 
 	- Sept 3 Thursday: Introduction to Course + Processing
 
@@ -27,10 +40,10 @@
 		- Email me your handle (ie, GitHub name/login) from your NYU acct
 		- Fwd your NYU email account to personal acct, if need be
 		- Read:
-			- Rushkoff’s Program or Be Programmed - Ch. 1 
-			- Programming, Creative Boost (RR)
-			- PI - Ch. 2
-			- Install Processing. Go through the examples in Processing and play with them.
+			- Rushkoff’s Program or Be Programmed - Ch. 1 (on Basecamp)
+			- [Programming, Creative Boost](http://lifedev.net/2008/07/programmer-creativity-boost/)
+			- PI - Ch. 2 - (on Basecamp)
+			- Install [Processing](https://processing.org/download/). Go through the examples in Processing and play with them.
 
 	- Sept 8 Tuesday: Intro to Processing II
 		- overall structure: setup() and draw().
@@ -383,3 +396,5 @@
 - Week 15: Dec 17 Thursday - Finals
 
 Dec 22 - Last chance for late submissions (electronically, and yes, they will be considered late); Documentation DUE
+
+</table>

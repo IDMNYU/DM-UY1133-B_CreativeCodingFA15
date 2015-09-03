@@ -7,6 +7,9 @@ Creative Coding Syllabus &amp; Class repo
 * **Office Location: NYU Media and Games Network, 2 Metrotech Center Room 884**
 
 ## Creative Coding: An Intro to Creative Coding
+2 Metrotech Center Room 811
+12:30pm - 2:30pm Tuesday and Thursdays
+
 This course is an introductory programming class, appropriate for students with no programming experience, who are interested in creating interactivity.  Traditionally, introductory programming teaches algorithmic problem-solving, where a sequence of instructions describe the steps necessary to achieve a desired result.  In this course, students are trained to go beyond this sequential thinking - to think concurrently and modularly.  By its end, students are empowered to write and read code for creating interactivity including: event-driven creative applications, interactive installations,  graphical user interfaces, networked video games and user interfaces.  Interactivity will be introduced and discussed throughout.
 
 # Program Goals
