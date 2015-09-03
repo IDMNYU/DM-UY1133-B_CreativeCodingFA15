@@ -17,19 +17,19 @@ Creative Coding Syllabus &amp; Class repo
 </tr>
 
 <tr>
-	<td width="100%">
+	<td style=width="100%">
 		Week 1: Sept 3 & Sept 8 - Introductions & Processing
 	</td>
 </tr>
 
 <tr>
-<td width="100%">
+<td style=width="100%">
 
 	 Sept 3 Thursday: Introduction to Course + Processing
 	 </td>
 </tr>
 <tr>
-<td width="30%">
+<td style=width:"40%">
 <ul>
 
 		<li> Introductions 
@@ -54,7 +54,7 @@ Creative Coding Syllabus &amp; Class repo
 		<li>A lightning-fast introduction to Processing code.</li>
 	</ul>
 </td>
-<td width="70%">
+<td style=width:"60%">
 	Homework:
 		<li>Get a <a href = https://github.com/>Github account</a></li>
 		<li>Email me your handle (ie, GitHub name/login) from your NYU acct</li>
