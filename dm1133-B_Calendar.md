@@ -16,13 +16,13 @@ Creative Coding Syllabus &amp; Class repo
 </tr>
 
 <tr>
-	<td>
+	<td width = "100%">
 		Week 1: Sept 3 & Sept 8 - Introductions & Processing
 	</td>
 </tr>
 
 <tr>
-<td>
+<td width = "100%">
 
 	 Sept 3 Thursday: Introduction to Course + Processing
 	 </td>
@@ -30,36 +30,40 @@ Creative Coding Syllabus &amp; Class repo
 
 <tr>
 <td>
-		- Introductions 
-		- Course Outline
-		- Expectancies
+<ul>
 
-		- Rescue Time - https://www.rescuetime.com/
-		- http://selfcontrolapp.com/
-		- Evernote, SQ3R
+		<li> Introductions 
+		<li> Course Outline
+		<li> Expectancies
 
-		- Downloading Processing
-		- The Processing reference
-	 	- The Processing examples
-		- The Processing exhibition
-		- Processing tutorials
-		- Processing libraries
-		- An overview of the Processing environment.
-		- Running examples
-		- Your sketchbook
-		- An overview of the environment.
-		- A lightning-fast introduction to Processing code.
+		<li> <a href=https://www.rescuetime.com/> Rescue Time </a></li>
+		<li> <a href=http://selfcontrolapp.com/> Self Control </a></li>
+		<li> <a href= https://evernote.com/> Evernote </a></li>
+		<li> <a href= http://www.studygs.net/texred2.htm> SQ3R </a></li>
+
+		<li> <a href = https://processing.org/download/>Download Processing</a></li>
+		<li><a href= https://processing.org/reference/>The Processing reference</a></li>
+	 	<li><a href = https://processing.org/examples/>The Processing examples</a></li>
+		<li><a href = https://processing.org/exhibition/> The Processing exhibition </a></li>
+		<li><a href = https://processing.org/tutorials/> Processing tutorials</a>, <a href = http://learningprocessing.com/videos/> Dan Shiffman Tutorials </a></li>
+		<li><a href = https://processing.org/reference/libraries/> Processing libraries </a></li>
+		<li>An overview of the Processing environment.</li>
+		<li> Running examples</li>
+		<li>Your sketchbook</li>
+		<li>An overview of the environment.</li>
+		<li>A lightning-fast introduction to Processing code.</li>
+	</ul>
 </td>
 <td>
 	Homework:
-		- Get a Github account
-		- Email me your handle (ie, GitHub name/login) from your NYU acct
-		- Fwd your NYU email account to personal acct, if need be
-		- Read:
-			- Rushkoff’s Program or Be Programmed - Ch. 1 (on Basecamp)
-			- [Programming, Creative Boost](http://lifedev.net/2008/07/programmer-creativity-boost/)
-			- PI - Ch. 2 - (on Basecamp)
-			- Install [Processing](https://processing.org/download/). Go through the examples in Processing and play with them.
+		<li>Get a <a href = https://github.com/>Github account</a></li>
+		<li>Email me your handle (ie, GitHub name/login) from your NYU acct</li>
+		<li>Fwd your NYU email account to personal acct, if need be</li>
+		<li>Read:
+			<li>Rushkoff’s Program or Be Programmed - Ch. 1 (on Basecamp)</li>
+			<li><a href = http://lifedev.net/2008/07/programmer-creativity-boost> Programming, Creative Boost </a></li>
+			<li>PI - Ch. 2 - (on Basecamp)</li>
+			<li>Install <a href = https://processing.org/download/>Processing</a>. Go through the examples in Processing and play with them.</li></li>
 			</td>
 </tr>
 
