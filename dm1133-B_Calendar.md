@@ -588,13 +588,12 @@ Creative Coding Syllabus &amp; Class repo
 
 
  <td> Week 15: Dec 17 <br> Thursday </td>
- <td> Finals <td>
+ <td> Final Presentations <td>
  <td> Document and turn in all documentation and files </td>
- <tr>
- <tr>
- <td>
+ 
+</tr>
 
-Dec 22 </td>
+ <td>Dec 22 </td>
 <td> Last chance for late submissions (electronically, and yes, they will be considered late); Documentation DUE </td>
 </tr>
 
