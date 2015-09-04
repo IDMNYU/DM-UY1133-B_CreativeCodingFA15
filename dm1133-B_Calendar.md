@@ -111,7 +111,7 @@ Creative Coding Syllabus &amp; Class repo
 <td>
 <ul>
 	
-		<li>Exercise 2: Redraw Crop from Kandinsky's Composition 8 (see resources). First select an interesting/ambitious crop, then load it into a program such as Photoshop or Illustrator to read the color and coordinate data. Use integer values for coordinates and only use the following functions for drawing: line(), triangle(), quad(), rect(), ellipse(), arc(), and beginShape(), endShape(), vertex(). </li>
+		<li>Exercise 2: Redraw Crop from Kandinsky's Composition 8 (see basecamp). First select an interesting/ambitious crop, then load it into a program such as Photoshop or Illustrator to read the color and coordinate data. Use integer values for coordinates and only use the following functions for drawing: line(), triangle(), quad(), rect(), ellipse(), arc(), and beginShape(), endShape(), vertex(). </li>
 		
 		<li> Read: LP - Ch. 0-2 </li>
 		</ul>
@@ -155,7 +155,7 @@ Creative Coding Syllabus &amp; Class repo
 		<ul>
 
 		<li> Project 1 - begin working on initial stages. <br> Use only the drawing functions - stuff found in the Shape, Color, Events and Math sections. Create custom functions that are triggered on some event, and make those functions vary. <br>
-		- Push Project 1 progress to your Github </li>
+		<br> Push Project 1 progress to your Github </li>
 		<li> Read: LP - Ch. 4 - 6 </li>
 
 		</ul>
@@ -261,150 +261,224 @@ Creative Coding Syllabus &amp; Class repo
  </tr>
 
 
-
-- Week 6: Oct 8 & (Oct 13) Oct 15 - Transform Buffer
 	
-	- Oct 8 Thursday: Self Assessments due via email;
+<tr>
+	<td>
+	Week 6: Transform <br> Oct 8 Thursday <br> <strong> Self Assessments due via email </strong>
+	</td>
+	<td>
 	 String Manipulation, Split & Join, word count
+	 <ul>
+	 <li> Studio Time for Exercise 3 </li>
+	 </ul>
+	 </td>
+	 <td>
+	 <ul>
 
-		- Studio Time for Exercise 3
+			<li> Exercise 3: Interactive Collage </li>
+			<li> Read: LP - Ch. 18-1 - 18-6; 8 </li>
+			</ul>
+			</td>
+</tr>
 
-		Homework:
-			- Exercise 3: Interactive Collage
-			- Read: LP - Ch. 18-1 - 18-6; 8
+<tr>
+<td>
+	Week 6: Transform <br> Oct 13 Tuesday <br> <strong> EXERCISE 3 DUE to GitHub at 12:30pm <br> <br> </strong>
+	<td>
+	<td> <strong>NO CLASS (Legislative Day)  </strong> </td>
+<tr>
 
-	- Oct 13 Tuesday: EXERCISE 3 DUE to GitHub at 12:30pm NO CLASS (Legislative Day)
+<tr>
+<td>
 
-	- Oct 15 Thursday: Classes + OOP
-		- Demo
-		- Show + Tell
-		- In-class Challenge
+	Week 6: Transform <br> Oct 15 Thursday <br> Classes + OOP </td>
 
-	Homework:
-		- For Homework
-			- Read: PI - Ch. 5
-			- Sign up for One-on-One reviews with me during my office hours. (
-			Link forthcoming)
+	<td>
+	<ul>
+	<li>  Demo </li>
+	<li> Show + Tell </li>
+	<li> In-class Challenge </li>
+	</ul>
+	</td>
 
-			Exercise 5: OOP
+	<td>
+	<ul>
 
+			<li> Read: PI - Ch. 5 </li>
+			<li> Sign up for One-on-One reviews with me during my office hours. (
+			Link forthcoming) </li>
 
-
-
-
-- Week 7: Oct 20 & Oct 22 - OOP + Transcoding
-				
-	- Oct 20 Tuesday: OOP : Inheritance + Polymorphism 
-		- Demo
-		- Show + Tell
-		- Studio Time
-
-	Homework:
-		- Exercise 5
-
-
-	- Oct 22 Thursday: Exercise 5 DUE
-	Transcoding + Data + API's 
-
-		- Demo/Workshop - Twitter
-		- Temboo - https://temboo.com
-
-		Homework:
-			- Read: LP - Ch 18, 19
-			- Exercise 6: Data Visualization
+			<li> Exercise 5: OOP </li>
+			</ul>
+			</td>
+</tr>			
 
 
 
-- Week 8: Oct 27 & Oct 29 - Visualize: Transcoding, Data + API's
+<tr>
 
 
-	- Oct 27 Tuesday: API's + Data
-		- Show + Tell
-		- Studio Time: Exercise 6
-		Homework:
-			Read: 
-				- GD - M.5
+	<td> 			
+	 Week 7: OOP <br> Oct 20 Tuesday <br> OOP : Inheritance + Polymorphism </td>
+	 <td>
+	 <ul>
+	 	<li> Demo </li>
+		<li> Show + Tell </li>
+		<li>Studio Time</li>
+	</ul>
+	</td>
+
+	<td>
+		Exercise 5
+		</td>
+
+</tr>
+
+<tr>
+	<td> Week 7: Transcoding <br> Oct 22 Thursday <br> <strong> Exercise 5 DUE </strong> <br>
+	Transcoding + Data + API's  </td>
+
+<td>
+		<ul>
+		<li> Demo/Workshop - Twitter </li>
+		<li> <a href = "https://temboo.com" >Temboo </a>  </li>
+		</ul>
+</td>
+		<td>
+		<ul>
+			<li> Read: LP - Ch 18, 19 </li>
+			<li> Exercise 6: Data Visualization </li>
+
+
+
+<tr>
+	<td>
+ 		Week 8: Visualize <br> Oct 27 Tuesday <br> API's + Data </td>
+ 		<td>
+ 		<ul>
+		<li> Show + Tell </li>
+		<li> Studio Time: Exercise 6  </li>
+		</ul>
+		</td>
 		
+		<td>
+		<ul>
+		<li> Exercise 6 </li>
+			<li>Read:  GD - M.5 </li>
+			</ul>
+			</td>
+		
+<tr>
+	<td>
+	 Week 8:more API Calls, JSON/XML <br> Oct 29 Thursday <br> </td>
 
-	- Oct 29 Thursday: more API Calls, JSON/XML
-		- In-class: Node.js workshop
+	 <td>
+		In-class: Node.js workshop </td>
 
-		Homework:
-			Read: 
-				- LP - Ch 18
-				- GD - M.6
-			Exercise 6
-
-
-
-
-
-- Week 9: Nov 3 & Nov 5 - API's continued + Simulate
-
-	- Nov 3 Tuesday: Deadline to withdrawl from class for a "W"
-	Exercise 6 DUE
-	API Buffer
-
-		- Show + Tell
-
-	- Nov 5 Thursday: Vectors
-
-		Homework:
-
-			- Read: NoC - Ch 1
-
-			- Exercise 7: Simulate
+		<td> 
+		<ul>
+			<li> Read: LP - Ch 18 </li>
+			<li> Read: GD - M.6 </li>
+			<li> Exercise 6 </li>
+			</ul>
+			</td>
+			</tr>
 
 
 
+<tr>
 
+<td>
+	 Week 9: More API's <br> Nov 3 Tuesday<br> <strong> Deadline to withdrawl from class for a "W" <br> <br>
+	Exercise 6 DUE </strong>
+	</td>
+	<td>
+	<ul>
+	<li> Workshop </li>
+		<li> Show + Tell </li>
+		</ul>
+		</td>
 
-- Week 10: Nov 10 & Nov 12 - Simulate  
+		<td> TBA </td>
 
-	- Nov 10 Tuesday: Forces 
-		- Show + Tell
+		</tr>
+<tr>
+<td>
+	Week 9: Simulate <br> Nov 5 Thursday </td>
+	<td> Vectors </td>
+	<td>
+	<ul>
 
-		Homework:
+			<li> Read: NoC - Ch 1 </li>
 
-			Read: 
-				- Noc - Ch 2
-				- GD P.2.2.1 - P.2.2.5, M.4
+			<li> Exercise 7: Simulate </li>
+			</ul>
+			</td>
+			</tr>
 
-			Exercise 7
+<tr>
+<td>
+
+	Week 10: Simulate <br> Nov 10 Tuesday </td>
+	<td>
+	<ul>
+	<li> Forces </li>
+		<li> Show + Tell </li>
+		</ul>
+		</td>
+	<td>
+	<ul>
+	<li> Read: Noc - Ch 2 </li>
+	<li> Read: GD P.2.2.1 - P.2.2.5, M.4 </li>
+	<li> Exercise 7 </li>
+	<li> Final Project Sketches <br>
 ]
-			- Sketch out 4 different ideas for final projects
-			- Use the handout to describe the changes within your piece, including states, interaction + motion
-			- research 3 artists/designers that influence EACH of your 4 ideas
-			- What assests do you need for each idea?
+		Sketch out 4 different ideas for final projects <br>
+		Use the handout to describe the changes within your piece, including states, interaction + motion <br>
+		<br> research 3 artists/designers that influence EACH of your 4 ideas
+		<br> What assests do you need for each idea?
+</li>
+</ul>
+</td>
+</tr>
 
+<tr>
+<td> Week 10: Simulate <br> Nov 12 Thursday </td>
+<td> Paricle Systems </td>
+<td>
+	<ul>
+			<li> Read NoC - Ch 4 </li>
 
-	- Nov 12 Thursday: Paricle Systems
-	
-	Homework:
-			- Read NoC - Ch 4
+			<li> Final Project Sketches <br>
+			Sketch out 4 different ideas for final projects <br>
+			Use the handout to describe the changes within your piece, including different states, interaction + motion <br>
+			Research 3 artists/designers that influence EACH of your 4 ideas <br>
+			What assests do you need for each idea? <br> </li>
 
-			- Sketch out 4 different ideas for final projects
-			- Use the handout to describe the changes within your piece, including different states, interaction + motion
-			- research 3 artists/designers that influence EACH of your 4 ideas
-			- What assests do you need for each idea?
-
-			- Exercise 7
+			<li> Exercise 7 </li>
 		
+</ul>
+</td>
+</tr>
 
+<tr>
+<td> Week 11: Nov 17 Tuesday  <br> <strong>Exercise 7 DUE </strong> </td> <
+<td> 
+<ul>
+<li> Sound </li>
+<li> Roundtable for final projects </li>
+<li> Show + Tell </li>
+</ul>
 
+ </td>
 
-
-- Week 11: Nov 17 & Nov 19 - Sound + Topics by Request (Video, 3D, CV, Kinect, IoT, external libraries...)
-
-	- Nov 17 Tuesday: Exercise 7 DUE
-
-	Roundtable for final projects
-		- Show + Tell
-
-
-	- Nov 19 Thursday: Sound
-		Homework:
-			- Read: LP - Ch 20
+<td>  <ul>
+ <li> Read: LP - Ch 20 </li>
+ <li> Gather assets for final project </li>
+ </ul>
+ </td>
+ 
+ </tr>
 
 
 
