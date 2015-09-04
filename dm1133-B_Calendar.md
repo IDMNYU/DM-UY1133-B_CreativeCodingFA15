@@ -592,7 +592,7 @@ Creative Coding Syllabus &amp; Class repo
  <td> Document and turn in all documentation and files </td>
  
 </tr>
-
+<tr>
  <td>Dec 22 </td>
 <td> Last chance for late submissions (electronically, and yes, they will be considered late); Documentation DUE </td>
 </tr>
