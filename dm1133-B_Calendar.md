@@ -481,71 +481,121 @@ Creative Coding Syllabus &amp; Class repo
  </tr>
 
 
+<tr> 
+<td> Week 12: Nov 24 Tuesday </td>
+
+<td> Topics By Request (Video, 3D, CV, Kinect, IoT, external libraries...)
+
+	<ul>
+	<li>
+	Push Progress to your GitHub Repo </li>
+
+	<li> Show + Tell </li>
+	</ul>
+	</td>
+
+	<td> Work on your Final Project </td>
+
+	</tr>
+
+<tr>
+<td>
+
+	Week 12: Dec 1 Tuesday </td>
+
+	<td> Topics by Request  <br> Push Progress to your GitHub Repo</td>
+
+	<td>
+	<ul>
+	<li> Read: TBA </li>
+		<li> Work on Final </li>
+		</ul>
+		</td>
+		</tr>
 
 
+<tr>
+<td> Week 13: Dec 3 Thrusday </td>
+<td> Topics By Request (Video, 3D, CV, Kinect, IoT, external libraries...)
+<ul>
+	<li> Push Progress to your GitHub Repo </li>
+	<li> Show + Tell </li>
+	<li> Studio Time </li>
+	</ul>
+	</td>
+	<td>
+	<ul>
+	<li> Read: TBA </li>
+		<li> Work on Final </li>
+		</ul>
+		</td>
+		</tr>
 
-- Week 12: Nov 24 & Dec 1 - Topics By Request (Video, 3D, CV, Kinect, IoT, external libraries...)
+<tr>
+<td>
+	Week 13: Dec 8 Tuesday </td>
 
-	- Nov 24 Tuesday: TBR
-	Push Progress to your GitHub Repo
-		- Show + Tell
+	<td> Topics By Request (Video, 3D, CV, Kinect, IoT, external libraries...)
+<ul>
+	<li> Push Progress to your GitHub Repo </li>
 
-
-	- Dec 1 Tuesday: TBR
-	Push Progress to your GitHub Repo
-		Homework:
-			- Read: TBA
-			- Work on Final
-
-
-
-
-
-- Week 13: Dec 3 & Dec 8  -  Topics By Request (Video, 3D, CV, Kinect, IoT, external libraries...)
-
-	- Dec 3 Thursday: TBR
-	Push Progress to your GitHub Repo
-		- Show + Tell
-		- Studio Time
-
-		Homework:
-			- Read: TBA
-			- Work on Final
-
-
-	- Dec 8 Tuesday: TBR 
-	Push Progress to your GitHub Repo
-		- Studio Time
-		Homework:
-			- Read: TBA
-			- Work on Final
-
+	<li> Studio Time </li>
+	</ul>
+	</td>
+	<td>
+	<ul>
+	<li> Read: TBA </li>
+		<li> Work on Final </li>
+		</ul>
+		</td>
+		</tr>
 
 
+<tr>
+<td>Week 14: Dec 10 Thursday </td> 
+<td> Topics By Request (Video, 3D, CV, Kinect, IoT, external libraries...)
+<ul>
+	<li> Push Progress to your GitHub Repo </li>
+	<li> Show + Tell </li>
+	<li> Studio Time </li>
+	</ul>
+	</td>
+	<td>
+	<ul>
+	<li> Read: TBA </li>
+		<li> Work on Final </li>
+		</ul>
+		</td>
+		</tr>
 
-- Week 14: Dec 10 - TBR + Studio
+<tr>
 
-	- Dec 10 Thursday: TBR
-	Push Progress to your GitHub Repo
-		- Show + Tell
+	<td> Week 14: Dec 15 Tuesday</td>
+	<td> Studio Day 
+	<ul>
+	<li> Push Progress to your GitHub Repo </li>
+	<li> Course Evaluations </li>
 
-		Homework:
-			- Read: TBA
-			- Work on Final
+		<td>
+	<ul>
+	<li> Read: TBA </li>
+		<li> Work on Final </li>
+		</ul>
+		</td>
+		</tr>
 
-
-	- Dec 15 Tuesday: Studio Day
-	Push Progress to your GitHub Repo
-		- Course Evaluations
-
-		Homework:
-			- Work on Final
-
-
+<tr>
 
 
-- Week 15: Dec 17 Thursday - Finals
+ <td> Week 15: Dec 17 Thursday </td>
+ <td> Finals <td>
+ <td> Document and turn in all documentation and files </td>
+ <tr>
+ <tr>
+ <td>
 
-Dec 22 - Last chance for late submissions (electronically, and yes, they will be considered late); Documentation DUE
+Dec 22 </td>
+<td> Last chance for late submissions (electronically, and yes, they will be considered late); Documentation DUE </td>
+</tr>
 
 </table>
