@@ -164,7 +164,7 @@ Creative Coding Syllabus &amp; Class repo
 
 <tr>
 <td>
-	Week 3: Repeat <br> Sept 22 Tuesday:  Functions: Resuability & Modularity; Interaction
+	Week 3: Repeat <br> Sept 22 <br>Tuesday:  Functions: Resuability & Modularity; Interaction
 </td>
 <td>
 	<ul>
@@ -187,7 +187,7 @@ Creative Coding Syllabus &amp; Class repo
 <tr>
 
 <td>
-	Week 4: Parameterize <br> Sept 24 Thursday </td>
+	Week 4: Parameterize <br> Sept 24<br> Thursday </td>
 	<td>
 	Arrays, Control </td>
 
@@ -203,7 +203,7 @@ Creative Coding Syllabus &amp; Class repo
 
 <tr>
 	<td>
-	Week 4: Parameterize <br> Sept 29 Tuesday </td>
+	Week 4: Parameterize <br> Sept 29<br> Tuesday </td>
 	<td> Modulo, Variation, Matrix transformations 
 		<ul>
 		<li> Show + Tell </li>
@@ -226,7 +226,7 @@ Creative Coding Syllabus &amp; Class repo
 <tr>
 
 <td>
-	Week 5: Transform <br> Oct 1 Thursday <br> Images + Text </td>
+	Week 5: Transform <br> Oct 1<br> Thursday <br> Images + Text </td>
 	<td>
 
 		Loading, positioning, overlay of images and text
@@ -243,7 +243,7 @@ Creative Coding Syllabus &amp; Class repo
 
 <tr>
 <td>
-	Week 5: Transform <br> Oct 6 Tuesday <br> <strong> PROJECT 1 DUE on GitHub </strong>
+	Week 5: Transform <br> Oct 6<br> Tuesday <br> <strong> PROJECT 1 DUE on GitHub </strong>
 </td>
 	<td> Transform: Pixel manipulation, averaging, slit-scanning
 		- Demo/Workshop
@@ -264,7 +264,7 @@ Creative Coding Syllabus &amp; Class repo
 	
 <tr>
 	<td>
-	Week 6: Transform <br> Oct 8 Thursday <br> <strong> Self Assessments due via email </strong>
+	Week 6: Transform <br> Oct 8<br> Thursday <br> <strong> Self Assessments due via email </strong>
 	</td>
 	<td>
 	 String Manipulation, Split & Join, word count
@@ -283,7 +283,7 @@ Creative Coding Syllabus &amp; Class repo
 
 <tr>
 <td>
-	Week 6: Transform <br> Oct 13 Tuesday <br> <strong> EXERCISE 3 DUE to GitHub at 12:30pm <br> <br> </strong>
+	Week 6: Transform <br> Oct 13<br> Tuesday <br> <strong> EXERCISE 3 DUE to GitHub at 12:30pm <br> <br> </strong>
 	<td>
 	<td> <strong>NO CLASS (Legislative Day)  </strong> </td>
 <tr>
@@ -291,7 +291,7 @@ Creative Coding Syllabus &amp; Class repo
 <tr>
 <td>
 
-	Week 6: Transform <br> Oct 15 Thursday <br> Classes + OOP </td>
+	Week 6: Transform <br> Oct 15<br> Thursday <br> Classes + OOP </td>
 
 	<td>
 	<ul>
@@ -319,7 +319,7 @@ Creative Coding Syllabus &amp; Class repo
 
 
 	<td> 			
-	 Week 7: OOP <br> Oct 20 Tuesday <br> OOP : Inheritance + Polymorphism </td>
+	 Week 7: OOP <br> Oct 20 <br>Tuesday <br> OOP : Inheritance + Polymorphism </td>
 	 <td>
 	 <ul>
 	 	<li> Demo </li>
@@ -335,7 +335,7 @@ Creative Coding Syllabus &amp; Class repo
 </tr>
 
 <tr>
-	<td> Week 7: Transcoding <br> Oct 22 Thursday <br> <strong> Exercise 5 DUE </strong> <br>
+	<td> Week 7: Transcoding <br> Oct 22<br> Thursday <br> <strong> Exercise 5 DUE </strong> <br>
 	Transcoding + Data + API's  </td>
 
 <td>
@@ -353,7 +353,7 @@ Creative Coding Syllabus &amp; Class repo
 
 <tr>
 	<td>
- 		Week 8: Visualize <br> Oct 27 Tuesday <br> API's + Data </td>
+ 		Week 8: Visualize <br> Oct 27 <br>Tuesday <br> API's + Data </td>
  		<td>
  		<ul>
 		<li> Show + Tell </li>
@@ -370,7 +370,7 @@ Creative Coding Syllabus &amp; Class repo
 		
 <tr>
 	<td>
-	 Week 8:more API Calls, JSON/XML <br> Oct 29 Thursday <br> </td>
+	 Week 8:more API Calls, JSON/XML <br> Oct 29<br> Thursday <br> </td>
 
 	 <td>
 		In-class: Node.js workshop </td>
@@ -389,7 +389,7 @@ Creative Coding Syllabus &amp; Class repo
 <tr>
 
 <td>
-	 Week 9: More API's <br> Nov 3 Tuesday<br> <strong> Deadline to withdrawl from class for a "W" <br> <br>
+	 Week 9: More API's <br> Nov 3<br> Tuesday<br> <strong> Deadline to withdrawl from class for a "W" <br> <br>
 	Exercise 6 DUE </strong>
 	</td>
 	<td>
@@ -404,7 +404,7 @@ Creative Coding Syllabus &amp; Class repo
 		</tr>
 <tr>
 <td>
-	Week 9: Simulate <br> Nov 5 Thursday </td>
+	Week 9: Simulate <br> Nov 5 <br>Thursday </td>
 	<td> Vectors </td>
 	<td>
 	<ul>
@@ -419,7 +419,7 @@ Creative Coding Syllabus &amp; Class repo
 <tr>
 <td>
 
-	Week 10: Simulate <br> Nov 10 Tuesday </td>
+	Week 10: Simulate <br> Nov 10 <br>Tuesday </td>
 	<td>
 	<ul>
 	<li> Forces </li>
@@ -432,10 +432,10 @@ Creative Coding Syllabus &amp; Class repo
 	<li> Read: GD P.2.2.1 - P.2.2.5, M.4 </li>
 	<li> Exercise 7 </li>
 	<li> Final Project Sketches <br>
-]
+
 		Sketch out 4 different ideas for final projects <br>
-		Use the handout to describe the changes within your piece, including states, interaction + motion <br>
-		<br> research 3 artists/designers that influence EACH of your 4 ideas
+		Use the handout to describe the changes within your piece, including states, interaction + motion. 
+		<br> Research 3 artists/designers that influence EACH of your 4 ideas.
 		<br> What assests do you need for each idea?
 </li>
 </ul>
@@ -443,7 +443,7 @@ Creative Coding Syllabus &amp; Class repo
 </tr>
 
 <tr>
-<td> Week 10: Simulate <br> Nov 12 Thursday </td>
+<td> Week 10: Simulate <br> Nov 12 <br>Thursday </td>
 <td> Paricle Systems </td>
 <td>
 	<ul>
@@ -451,8 +451,8 @@ Creative Coding Syllabus &amp; Class repo
 
 			<li> Final Project Sketches <br>
 			Sketch out 4 different ideas for final projects <br>
-			Use the handout to describe the changes within your piece, including different states, interaction + motion <br>
-			Research 3 artists/designers that influence EACH of your 4 ideas <br>
+			Use the handout to describe the changes within your piece, including different states, interaction + motion. <br>
+			Research 3 artists/designers that influence EACH of your 4 ideas. <br>
 			What assests do you need for each idea? <br> </li>
 
 			<li> Exercise 7 </li>
@@ -462,7 +462,7 @@ Creative Coding Syllabus &amp; Class repo
 </tr>
 
 <tr>
-<td> Week 11: Nov 17 Tuesday  <br> <strong>Exercise 7 DUE </strong> </td> <
+<td> Week 11: Nov 17 <br>Tuesday  <br> <strong>Exercise 7 DUE </strong> </td> <
 <td> 
 <ul>
 <li> Sound </li>
@@ -482,7 +482,7 @@ Creative Coding Syllabus &amp; Class repo
 
 
 <tr> 
-<td> Week 12: Nov 24 Tuesday </td>
+<td> Week 12: Nov 24 <br>Tuesday </td>
 
 <td> Topics By Request (Video, 3D, CV, Kinect, IoT, external libraries...)
 
@@ -501,7 +501,7 @@ Creative Coding Syllabus &amp; Class repo
 <tr>
 <td>
 
-	Week 12: Dec 1 Tuesday </td>
+	Week 12: Dec 1 <br>Tuesday </td>
 
 	<td> Topics by Request  <br> Push Progress to your GitHub Repo</td>
 
@@ -515,7 +515,7 @@ Creative Coding Syllabus &amp; Class repo
 
 
 <tr>
-<td> Week 13: Dec 3 Thrusday </td>
+<td> Week 13: Dec 3<br> Thursday </td>
 <td> Topics By Request (Video, 3D, CV, Kinect, IoT, external libraries...)
 <ul>
 	<li> Push Progress to your GitHub Repo </li>
@@ -533,7 +533,7 @@ Creative Coding Syllabus &amp; Class repo
 
 <tr>
 <td>
-	Week 13: Dec 8 Tuesday </td>
+	Week 13: Dec 8 <br>Tuesday </td>
 
 	<td> Topics By Request (Video, 3D, CV, Kinect, IoT, external libraries...)
 <ul>
@@ -552,7 +552,7 @@ Creative Coding Syllabus &amp; Class repo
 
 
 <tr>
-<td>Week 14: Dec 10 Thursday </td> 
+<td>Week 14: Dec 10 <br>Thursday </td> 
 <td> Topics By Request (Video, 3D, CV, Kinect, IoT, external libraries...)
 <ul>
 	<li> Push Progress to your GitHub Repo </li>
@@ -570,7 +570,7 @@ Creative Coding Syllabus &amp; Class repo
 
 <tr>
 
-	<td> Week 14: Dec 15 Tuesday</td>
+	<td> Week 14: Dec 15 <br>Tuesday</td>
 	<td> Studio Day 
 	<ul>
 	<li> Push Progress to your GitHub Repo </li>
@@ -587,7 +587,7 @@ Creative Coding Syllabus &amp; Class repo
 <tr>
 
 
- <td> Week 15: Dec 17 Thursday </td>
+ <td> Week 15: Dec 17 <br> Thursday </td>
  <td> Finals <td>
  <td> Document and turn in all documentation and files </td>
  <tr>
