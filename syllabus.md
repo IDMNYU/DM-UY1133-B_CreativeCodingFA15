@@ -2,7 +2,7 @@
 Creative Coding Syllabus &amp; Class repo
 
 * **Katherine Bennett, Visiting Assistant Professor**
-* **Email:Katherine.Bennett@nyu.edu**
+* **Email:Katherine.Bennett@nyu.edu ** Helen Carey (GA) helencarey@nyu.edu **
 * **Office Hours: Tues + Thur 2:20-3pm, otherwise by appointment** 
 * **Office Location: NYU Media and Games Network, 2 Metrotech Center Room 884**
 
@@ -104,9 +104,10 @@ If I have asked you to schedule an appointment with me, I am not trying to avoid
 We will utilize a variety of tools to make this class successful and to create your class projects.
 
 • [Learning Processing, SECOND EDITION by Daniel Shiffman] (http://learningprocessing.com/) ISBN-13: 978-0123944436 LP
+This book is available for purchase in the NYU bookstore, and will be physically on reserve at the NYU School of Engineering library. You can check the status of the book [here](http://library.nyu.edu/). This book in it's initial edition is available as an online book via [here](http://bobcat.library.nyu.edu).
 
 • [Generative Design by Bohnacker, GroB, Laub & Lazzeroni](http://www.generative-gestaltung.de/about) ISBN-13: 978-1616890773 GD
-
+This book is available for purchase in the NYU bookstore, and will be on reserve at the NYU School of Engineering library. You can check the status of the book [here](http://library.nyu.edu/)
 
 • [Processing] (https://processing.org/download/)
 
@@ -128,8 +129,8 @@ We will utilize a variety of tools to make this class successful and to create y
 
 
 <ul>Highly Recommended Texts: 
-		<li>[Make: Getting Started with P5.js by Lauren McCarthy](http://shop.oreilly.com/product/0636920032076.do)</li>
-		<li>[Form + Code by Casey Reas and Chandler McWilliams](http://formandcode.com/) </li></ul>
+		<li><a href = "http://shop.oreilly.com/product/0636920032076.do"> Make: Getting Started with P5.js by Lauren McCarthy</a></li>
+		<li><a href = "http://formandcode.com/">Form + Code by Casey Reas and Chandler McWilliams</a> </li></ul> This book is available as an online book via <a href = "http://bobcat.library.nyu.edu"> here </a>.
 
 Please Note: Software is free to download. 
 

@@ -82,12 +82,12 @@ Creative Coding Syllabus &amp; Class repo
 </td>
 <td>
 	<ul>
-		<li>Install Github for Mac/Windows, P5.js, Brackets, Sublime</li>
+		<li>Install <a href = "https://desktop.github.com/"> Github Desktop for Mac/Windows </a>, <a href = "http://p5js.org/"> P5.js </a>, <a href = "http://brackets.io/"> Brackets </a>, <a href = "http://www.sublimetext.com/"> Sublime </a></li>
 		<li>Exercise 1: Monster
 			Write a program that creates a monster. Use 5 different colors and 7 different shapes (minimum)
 
 		<li>Read:
-			<a href= "http://www.cnet.com/news/forget-linkedin-companies-turn-to-github-to-find-tech-talent/">Git Hub vs Linked In </a> 
+			<a href= "http://www.cnet.com/news/forget-linkedin-companies-turn-to-github-to-find-tech-talent/">Git Hub vs Linked In </a> and
 			<a href = "http://io9.com/the-10-algorithms-that-dominate-our-world-1580110464">The 10 Algorithms that Dominate </a>
 			</li>
 			</ul>

@@ -1,3 +1,31 @@
+### Resources for DM1133-B Creative Coding
+
+* **Katherine Bennett, Visiting Assistant Professor**
+* **Email:Katherine.Bennett@nyu.edu ** Helen Carey (GA) helencarey@nyu.edu **
+* **Office Hours: Tues + Thur 2:20-3pm, otherwise by appointment** 
+* **Office Location: NYU Media and Games Network, 2 Metrotech Center Room 884**
+
+### Required Materials
+• [Learning Processing, SECOND EDITION by Daniel Shiffman] (http://learningprocessing.com/) ISBN-13: 978-0123944436 LP
+This book is available for purchase in the NYU bookstore, and will be physically on reserve at the NYU School of Engineering library. You can check the status of the book [here](http://library.nyu.edu/). This book in it's initial edition is available as an online book via [here](http://bobcat.library.nyu.edu).
+
+• [Generative Design by Bohnacker, GroB, Laub & Lazzeroni](http://www.generative-gestaltung.de/about) ISBN-13: 978-1616890773 GD
+This book is available for purchase in the NYU bookstore, and will be on reserve at the NYU School of Engineering library. You can check the status of the book [here](http://library.nyu.edu/)
+
+• [Processing] (https://processing.org/download/)
+
+• [P5.js](http://p5js.org/download/) Download P5.js complete
+
+• text editor - [Brackets] (http://brackets.io/), [Sublime](http://www.sublimetext.com/2), [TextWrangler](http://www.barebones.com/products/textwrangler/), or another favorite of yours
+
+• FTP Client - [Cyberduck] (https://cyberduck.io/?l=en), [Transmit] (https://panic.com/transmit/) (Mac only), [FileZilla] (https://filezilla-project.org/)
+
+• [Nature of Code] (http://p5js.org/download/) NoC
+
+• [Basecamp](https://basecamp.com/)
+
+• [Slack](https://slack.com/)
+
 ### Required Resources 
 • Github vs Linked in : http://www.ittybittyurl.com/32g6, http://www.ittybittyurl.com/32g7
 
