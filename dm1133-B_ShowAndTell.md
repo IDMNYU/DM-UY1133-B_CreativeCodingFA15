@@ -12,30 +12,36 @@ You will be assigned a Show and Tell presentation date. See the calendar. Please
 
 #### Show and Tell People
 
-Week 2:  Sept 10 - Joshua Davis, Golan Levin (drawing systems + collaborations)
+Sept 15 - Joshua Davis, Golan Levin (drawing systems + collaborations) ---> Pooja
 
-Week 3:  Sept 17 -  Casey Reas, Zachary Lieberman
+Sept 17 -  Casey Reas, Zachary Lieberman ---> Katie
 
-Week 4:  Sept 24 - United Visual Artists, Hellicar & Lewis 
+Sept 22 - United Visual Artists, Hellicar & Lewis ---> Davit
 
-Week 5:  Oct 1 - Robert Hodgin - Flight404, Karsten Schmidt
+Sept 24 - Robert Hodgin - Flight404, Karsten Schmidt ---> Mateo
 
-Week 6: Oct 8 - Julian Oliver, Moritz Stefaner, Martin Wattenberg
+Sept 29 - Julian Oliver, Moritz Stefaner, Martin Wattenberg ---> Jack
 
-Week 7:  Oct 15 -  Jer Thorpe, Soso Limited
+Oct 6 -  Jer Thorpe, Soso Limited ---> Daniel
 
-Week 8:  Oct 22 - Marius Watz & Memo Akten 
+Oct 15 - Marius Watz & Memo Akten ---> Ryan
 
-Week 9:  Oct 29 - Seb Lee-Delisle & Kyle McDonald 
+Oct 20 - Seb Lee-Delisle & Kyle McDonald ---> Catherine
 
-Week 10:  Nov 5th - Field - http://www.field.io/, Josh Nimoy
+Oct 27 - Field - http://www.field.io/, Josh Nimoy ---> Travis
 
-Week 11: Nov 12th - Jurg Lehni, Red Paper Heart   
+Nov 3 - Jurg Lehni, Red Paper Heart   ---> Calvin
 
-Week 12: Nov 19th - Amit Pitaru, rAndom International 
+Nov 5 - Amit Pitaru, rAndom International  ---> Kimberly
 
-Week 13: Dec 1 -  Diato Manabe, Leo Villareal
+Nov 10 -  Diato Manabe, Leo Villareal ---> Orlando
 
-Week 14: Dec 8 - Buffer
+Nov 12 - Karolina Sobecka, N-e-r-v-o-u-s-S-y-s-t-e-m ---> Bella
 
-Extra Credit Possibilities: N-e-r-v-o-u-s-S-y-s-t-e-m, Jeff Crouse, Eno Henze, Dedric Kiefer, Paul Prudence, Similar Diversity (by Philipp Steinweber and Andreas Koller), Poetry on the Road, Lauren McCarthy, Karolina Sobecka,...
+Nov 24 - Eno Henze, Dedric Kiefer ---> Jonatan 
+
+Dec 1 - Lauren McCarthy, Future Cities Lab ---> Tamar
+
+Dec 3 - Paul Prudence, Moment Factory ---> Isabel
+
+Extra Credit Possibilities:  Jeff Crouse, Similar Diversity (by Philipp Steinweber and Andreas Koller), Poetry on the Road, ...

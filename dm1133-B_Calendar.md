@@ -96,24 +96,26 @@ Creative Coding Syllabus &amp; Class repo
 
 <tr>
 	<td> Week 2: Sept 10 <br> Thursday<br> <strong> EXERCISE 1 DUE </strong>
-		Intro to Github + P5.js + text editors, loops, Show + Tell </td>
+		Intro to Github    </td>
 
 
 <td>
 <ul>
 		<li> Blind Drawing Exercise </li>
 		<li>Intro to Github; Push homework to cloned repo (your personal repo)</li>
-		<li> Intro to P5.js + Text Editors </li>
+		
 		<li> Variables, Scope + Control Statements, Logical Operators + Loops</li>
 		<li> Pseudo code & comments & println()</li>
+		<li> 
 		</ul>
 </td>
 <td>
 <ul>
 	
-		<li>Exercise 2: Redraw Crop from Kandinsky's Composition 8 (see basecamp). First select an interesting/ambitious crop, then load it into a program such as Photoshop or Illustrator to read the color and coordinate data. Use integer values for coordinates and only use the following functions for drawing: line(), triangle(), quad(), rect(), ellipse(), arc(), and beginShape(), endShape(), vertex(). </li>
+		<li><a href = "https://github.com/IDMUY1133BCreativeCodingAssignments/Exercise_2"> Exercise 2 </a></li>
 		
 		<li> Read: LP - Ch. 0-2 </li>
+		<li> Read: <a href = "http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1"> GitHub for Beginners </a>
 		</ul>
 </td>
 </tr>
@@ -127,8 +129,8 @@ Creative Coding Syllabus &amp; Class repo
 <ul>
 		<li>Variables, Scope + Control Statements, Logical Operators + Loops</li>
 		<li> Nested loops</li>
-		<li>Show + Tell</li>
-		<li>Studio time: Exercise 3 </li>
+		<li>lerp(), map() + gradients </li>
+		<li>Show + Tell ---> Pooja </li>
 		</ul>
 		</td>
 <td>
@@ -137,18 +139,21 @@ Creative Coding Syllabus &amp; Class repo
 			<li> Read: GD - P.0, P.1.2.3 - P.2.1.3 </li>
 
 		<li> Exercise 3: Repetition: Modularity, Pattern <br>
-		Create 3 different forms and create 4 different patterns. Consider how the form fits with other forms. Also consider different rhythms that you can make with spacing, direction/orientation and repetition. Work using shape, color and the grid to form your 4 different patterns. </li>
+		Using 1 form/shape and create 3 different grid patterns. Consider different rhythms that you can make with spacing, direction/orientation and repetition. </li>
 		</ul>
 
 </td>
 </tr>
 
 <tr>
-	<td> Week 3: Repeat <br> Sept 17 <br> Thursday <br> Motion, Random, Functions + passing parameters, matrix transformations </td>
+	<td> Week 3: <strong>Repeat</strong> <br> Sept 17 <br> Thursday <br> </td>
 
 	<td>
-
-		 In-Class Challenge
+		<ul>
+		<li> Motion, Random, Functions + passing parameters, matrix transformations </li>
+		<li> Show and Tell ---> Katie  </li>
+		 <li>In-Class Challenge</li>
+		 </ul>
 	</td>
 
 	<td>
@@ -164,12 +169,12 @@ Creative Coding Syllabus &amp; Class repo
 
 <tr>
 <td>
-	Week 3: Repeat <br> Sept 22 <br>Tuesday:  Functions: Resuability & Modularity; Interaction
+	Week 3: <strong> Repeat </strong> <br> Sept 22 <br>Tuesday
 </td>
 <td>
 	<ul>
-
-		<li> Push Project 1 progress to your Github</li>
+	<li>Functions: Resuability & Modularity; Interaction</li>
+	<li>In-Class Challenge</li>
 		<li> Show + Tell </li>
 	</ul>
 </td>
@@ -187,9 +192,10 @@ Creative Coding Syllabus &amp; Class repo
 <tr>
 
 <td>
-	Week 4: Parameterize <br> Sept 24<br> Thursday </td>
-	<td>
-	Arrays, Control </td>
+	Week 4: <strong>Parameterize</strong> <br> Sept 24<br> Thursday </td>
+	<td>Arrays, Control <br>
+	In-class Challenge
+	 </td>
 
 <td>
 	<ul>
@@ -203,7 +209,7 @@ Creative Coding Syllabus &amp; Class repo
 
 <tr>
 	<td>
-	Week 4: Parameterize <br> Sept 29<br> Tuesday </td>
+	Week 4: <strong>Parameterize </strong><br> Sept 29<br> Tuesday </td>
 	<td> Modulo, Variation, Matrix transformations 
 		<ul>
 		<li> Show + Tell </li>
@@ -226,7 +232,7 @@ Creative Coding Syllabus &amp; Class repo
 <tr>
 
 <td>
-	Week 5: Transform <br> Oct 1<br> Thursday <br> Images + Text </td>
+	Week 5: <strong>Transform </strong><br> Oct 1<br> Thursday <br> Images + Text </td>
 	<td>
 
 		Loading, positioning, overlay of images and text
@@ -243,7 +249,7 @@ Creative Coding Syllabus &amp; Class repo
 
 <tr>
 <td>
-	Week 5: Transform <br> Oct 6<br> Tuesday <br> <strong> PROJECT 1 DUE on GitHub </strong>
+	Week 5: <strong>Transform </strong> <br> Oct 6<br> Tuesday <br> <strong> PROJECT 1 DUE on GitHub </strong>
 </td>
 	<td> Transform: Pixel manipulation, averaging, slit-scanning
 		- Demo/Workshop
@@ -264,7 +270,7 @@ Creative Coding Syllabus &amp; Class repo
 	
 <tr>
 	<td>
-	Week 6: Transform <br> Oct 8<br> Thursday <br> <strong> Self Assessments due via email </strong>
+	Week 6: <strong>Transform </strong> <br> Oct 8<br> Thursday <br> <strong> Self Assessments due via email </strong>
 	</td>
 	<td>
 	 String Manipulation, Split & Join, word count
@@ -283,7 +289,7 @@ Creative Coding Syllabus &amp; Class repo
 
 <tr>
 <td>
-	Week 6: Transform <br> Oct 13<br> Tuesday <br> <strong> EXERCISE 3 DUE to GitHub at 12:30pm <br> <br> </strong>
+	Week 6: <strong> Transform </strong><br> Oct 13<br> Tuesday <br> <strong> EXERCISE 3 DUE to GitHub at 12:30pm <br> <br> </strong>
 	<td>
 	<td> <strong>NO CLASS (Legislative Day)  </strong> </td>
 <tr>
@@ -291,7 +297,7 @@ Creative Coding Syllabus &amp; Class repo
 <tr>
 <td>
 
-	Week 6: Transform <br> Oct 15<br> Thursday <br> Classes + OOP </td>
+	Week 6: <strong> Transform</strong> <br> Oct 15<br> Thursday <br> Classes + OOP </td>
 
 	<td>
 	<ul>
@@ -319,7 +325,7 @@ Creative Coding Syllabus &amp; Class repo
 
 
 	<td> 			
-	 Week 7: OOP <br> Oct 20 <br>Tuesday <br> OOP : Inheritance + Polymorphism </td>
+	 Week 7: <strong>OOP </strong><br> Oct 20 <br>Tuesday <br> OOP : Inheritance + Polymorphism </td>
 	 <td>
 	 <ul>
 	 	<li> Demo </li>
@@ -335,7 +341,7 @@ Creative Coding Syllabus &amp; Class repo
 </tr>
 
 <tr>
-	<td> Week 7: Transcoding <br> Oct 22<br> Thursday <br> <strong> Exercise 5 DUE </strong> <br>
+	<td> Week 7: <strong>Transcoding </strong> <br> Oct 22<br> Thursday <br> <strong> Exercise 5 DUE </strong> <br>
 	Transcoding + Data + API's  </td>
 
 <td>
@@ -353,7 +359,7 @@ Creative Coding Syllabus &amp; Class repo
 
 <tr>
 	<td>
- 		Week 8: Visualize <br> Oct 27 <br>Tuesday <br> API's + Data </td>
+ 		Week 8: <strong>Visualize</strong> <br> Oct 27 <br>Tuesday <br> API's + Data </td>
  		<td>
  		<ul>
 		<li> Show + Tell </li>
@@ -370,7 +376,7 @@ Creative Coding Syllabus &amp; Class repo
 		
 <tr>
 	<td>
-	 Week 8:more API Calls, JSON/XML <br> Oct 29<br> Thursday <br> </td>
+	 Week 8: <strong> more API Calls, JSON/XML </strong> <br> Oct 29<br> Thursday <br> </td>
 
 	 <td>
 		In-class: Node.js workshop </td>
@@ -389,7 +395,7 @@ Creative Coding Syllabus &amp; Class repo
 <tr>
 
 <td>
-	 Week 9: More API's <br> Nov 3<br> Tuesday<br> <strong> Deadline to withdrawl from class for a "W" <br> <br>
+	 Week 9: <strong> More API's</strong> <br> Nov 3<br> Tuesday<br> <strong> Deadline to withdrawl from class for a "W" <br> <br>
 	Exercise 6 DUE </strong>
 	</td>
 	<td>
@@ -404,7 +410,7 @@ Creative Coding Syllabus &amp; Class repo
 		</tr>
 <tr>
 <td>
-	Week 9: Simulate <br> Nov 5 <br>Thursday </td>
+	Week 9: <strong> Simulate </strong><br> Nov 5 <br>Thursday </td>
 	<td> Vectors </td>
 	<td>
 	<ul>
@@ -419,7 +425,7 @@ Creative Coding Syllabus &amp; Class repo
 <tr>
 <td>
 
-	Week 10: Simulate <br> Nov 10 <br>Tuesday </td>
+	Week 10: <strong> Simulate </strong><br> Nov 10 <br>Tuesday </td>
 	<td>
 	<ul>
 	<li> Forces </li>
@@ -443,7 +449,7 @@ Creative Coding Syllabus &amp; Class repo
 </tr>
 
 <tr>
-<td> Week 10: Simulate <br> Nov 12 <br>Thursday </td>
+<td> Week 10: <strong>Simulate </strong> <br> Nov 12 <br>Thursday </td>
 <td> Paricle Systems </td>
 <td>
 	<ul>
@@ -592,6 +598,7 @@ Creative Coding Syllabus &amp; Class repo
  <td> Document and turn in all documentation and files </td>
  
 </tr>
+
 <tr>
  <td>Dec 22 </td>
 <td> Last chance for late submissions (electronically, and yes, they will be considered late); Documentation DUE </td>
