@@ -1,10 +1,10 @@
 ###Show and Tell
 
-You will be assigned a Show and Tell presentation date. See the calendar. Please research the assigned artist/designers/firms/pieces/collectives in advance. Each presentation will be about 10-15 minutes long. Be able to address the following, along with *3-4 visual examples of each individual or team's work*: (2 points each)
+You will be assigned a Show and Tell presentation date. See the calendar. Please research the assigned artist/designers/firms/pieces/collectives in advance. Each presentation will be about 5-7 minutes long. Be able to address the following, along with *3-4 visual examples of each individual or team's work*: (2 points each)
 
 • What is original/unique about how this artist uses technology? 
 
-• What kind of code did the artist use?  (JavaScript? Flash? Procesing? openFrameworks?) How are they using the code? What is the code achieving?
+• What kind of code did the artist use?  (JavaScript? Flash? Procesing? openFrameworks? VVVV?) How are they using the code? What is the code achieving?
 
 • Why is it necessary that the artist use code?  (ie: particularly if it’s non-interactive, could it have been achieved with traditional or linear media?)
 

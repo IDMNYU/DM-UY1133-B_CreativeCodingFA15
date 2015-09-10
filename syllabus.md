@@ -125,6 +125,10 @@ This book is available for purchase in the NYU bookstore, and will be on reserve
 
 • A notebook/sketchbook and a pen. At all times.
 
+• [Basecamp](https://basecamp.com/)
+
+• [Slack](https://slack.com/)
+
 • [Required Resources](dm113-B_Resources.md)
 
 
@@ -177,15 +181,29 @@ Do the follow these steps for each assignment:
 
 ###[Show and Tell](dm1133-B_ShowAndTell.md)
 
-You will be assigned a [Show and Tell presentation date here](dm1133-B_ShowAndTell.md).  Please research the assigned artist/designers/firms/pieces/collectives in advance. Each presentation will be about 10-15 minutes long. Be able to address the following, along with *3-4 visual examples of each individual or team's work*: (2 points each)
+You will be assigned a [Show and Tell presentation date here](dm1133-B_ShowAndTell.md). Please research the assigned artist/designers/firms/pieces/collectives in advance. Each presentation will be about 5-7 minutes long. Be able to address the following, along with *3-4 visual examples of each individual or team's work*: (2 points each)
 
 • What is original/unique about how this artist uses technology? 
 
-• What kind of code did the artist use?  (JavaScript? Flash? Procesing? openFrameworks?) How are they using the code? What is the code achieving?
+• What kind of code did the artist use?  (JavaScript? Flash? Procesing? openFrameworks? VVVV?) How are they using the code? What is the code achieving?
 
 • Why is it necessary that the artist use code?  (ie: particularly if it’s non-interactive, could it have been achieved with traditional or linear media?)
 
 • Your presentation must be prepared and professional. DO NOT READ OFF YOUR SLIDES. Show the work. Discuss the work.
+
+
+### Tips for your presentation
+
+• [THOUGHTS ON PUBLIC SPEAKING BY ZACH HOLMAN](http://speaking.io/) Click the links!!!
+
+• Create a 5-7 minutes presentation (pdf, powerpoint, keynote, quicktime, etc.)
+
+• Decide whether or not you want to mirror your presentation or not (if you're using presentation tools - ie, notes)
+Get familiar with your display preferences!!
+
+• If you have sound during your presentation, set your external sound preferences in system preferences to Crestron.
+
+• PRACTICE PRACTICE PRACTICE
 
 
 ### Grading
