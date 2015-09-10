@@ -174,6 +174,7 @@ Creative Coding Syllabus &amp; Class repo
 <td>
 	<ul>
 	<li>Functions: Resuability & Modularity; Interaction</li>
+	<li> Intro to P5.js + Text Editors </li>
 	<li>In-Class Challenge</li>
 		<li> Show + Tell ---> Davit </li>
 	</ul>
