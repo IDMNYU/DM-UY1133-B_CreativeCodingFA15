@@ -10,6 +10,20 @@ You will be assigned a Show and Tell presentation date. See the calendar. Please
 
 • Your presentation must be prepared and professional. DO NOT READ OFF YOUR SLIDES. Show the work. Discuss the work.
 
+
+### Tips for your presentation
+
+• [THOUGHTS ON PUBLIC SPEAKING BY ZACH HOLMAN](http://speaking.io/) Click the links!!!
+
+• Create a 5-7 minutes presentation (pdf, powerpoint, keynote, quicktime, etc.)
+
+• Decide whether or not you want to mirror your presentation or not (if you're using presentation tools - ie, notes)
+Get familiar with your display preferences!!
+
+• If you have sound during your presentation, set your external sound preferences in system preferences to Crestron.
+
+• PRACTICE PRACTICE PRACTICE
+
 #### Show and Tell People
 
 Sept 15 - Joshua Davis, Golan Levin (drawing systems + collaborations) ---> Pooja
