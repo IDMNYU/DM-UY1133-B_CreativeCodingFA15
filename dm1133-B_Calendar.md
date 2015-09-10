@@ -175,7 +175,7 @@ Creative Coding Syllabus &amp; Class repo
 	<ul>
 	<li>Functions: Resuability & Modularity; Interaction</li>
 	<li>In-Class Challenge</li>
-		<li> Show + Tell </li>
+		<li> Show + Tell ---> Davit </li>
 	</ul>
 </td>
 <td>
@@ -194,6 +194,7 @@ Creative Coding Syllabus &amp; Class repo
 <td>
 	Week 4: <strong>Parameterize</strong> <br> Sept 24<br> Thursday </td>
 	<td>Arrays, Control <br>
+	Show + Tell ---> Mateo <br>
 	In-class Challenge
 	 </td>
 
@@ -212,7 +213,7 @@ Creative Coding Syllabus &amp; Class repo
 	Week 4: <strong>Parameterize </strong><br> Sept 29<br> Tuesday </td>
 	<td> Modulo, Variation, Matrix transformations 
 		<ul>
-		<li> Show + Tell </li>
+		<li> Show + Tell ---> Jack </li>
 		<li> In-Class Challenge </li>
 		</ul>
 	</td>
@@ -232,9 +233,9 @@ Creative Coding Syllabus &amp; Class repo
 <tr>
 
 <td>
-	Week 5: <strong>Transform </strong><br> Oct 1<br> Thursday <br> Images + Text </td>
+	Week 5: <strong>Transform </strong><br> Oct 1<br> Thursday  </td>
 	<td>
-
+ Images + Text <br>
 		Loading, positioning, overlay of images and text
 		</td>
 
@@ -251,14 +252,14 @@ Creative Coding Syllabus &amp; Class repo
 <td>
 	Week 5: <strong>Transform </strong> <br> Oct 6<br> Tuesday <br> <strong> PROJECT 1 DUE on GitHub </strong>
 </td>
-	<td> Transform: Pixel manipulation, averaging, slit-scanning
-		- Demo/Workshop
-		- Show + Tell
+	<td> Transform: Pixel manipulation, averaging, slit-scanning <br>
+		
+		Show + Tell ---> Daniel
 		</td>
 
 	<td>
 		<ul>
-			<li> Exercise 3: Collage + Manipulation </li>
+			<li> Exercise 4: Collage + Manipulation </li>
 			<li><a href= "http://www.flong.com/texts/lists/slit_scan/"> Read: Golan Levin's Essay on Slit Scanning </a> </li>
 			<li> Sign up for One-on-One reviews with me during my office hours. (Link forthcoming) </li>
 			<li>Write your midterm Self Assessment</li>
@@ -297,14 +298,13 @@ Creative Coding Syllabus &amp; Class repo
 <tr>
 <td>
 
-	Week 6: <strong> Transform</strong> <br> Oct 15<br> Thursday <br> Classes + OOP </td>
+	Week 6: <strong> Transform</strong> <br> Oct 15<br> Thursday </td>
 
 	<td>
-	<ul>
-	<li>  Demo </li>
-	<li> Show + Tell </li>
-	<li> In-class Challenge </li>
-	</ul>
+	
+	  Demo: Classes + OOP <br>
+	 Show + Tell ---> Ryan <br>
+	 In-class Challenge 
 	</td>
 
 	<td>
@@ -325,13 +325,13 @@ Creative Coding Syllabus &amp; Class repo
 
 
 	<td> 			
-	 Week 7: <strong>OOP </strong><br> Oct 20 <br>Tuesday <br> OOP : Inheritance + Polymorphism </td>
+	 Week 7: <strong>OOP </strong><br> Oct 20 <br>Tuesday  </td>
 	 <td>
-	 <ul>
-	 	<li> Demo </li>
-		<li> Show + Tell </li>
-		<li>Studio Time</li>
-	</ul>
+	 
+	 	 Demo: OOP : Inheritance + Polymorphism <br>
+		 Show + Tell ---> Catherine <br>
+		Studio Time
+	
 	</td>
 
 	<td>
@@ -342,13 +342,13 @@ Creative Coding Syllabus &amp; Class repo
 
 <tr>
 	<td> Week 7: <strong>Transcoding </strong> <br> Oct 22<br> Thursday <br> <strong> Exercise 5 DUE </strong> <br>
-	Transcoding + Data + API's  </td>
+	 </td>
 
 <td>
-		<ul>
-		<li> Demo/Workshop - Twitter </li>
-		<li> <a href = "https://temboo.com" >Temboo </a>  </li>
-		</ul>
+		Transcoding + Data + API's <br>
+	    Demo/Workshop - Twitter <br>
+		<a href = "https://temboo.com" >Temboo </a>  <br>
+		
 </td>
 		<td>
 		<ul>
@@ -361,10 +361,9 @@ Creative Coding Syllabus &amp; Class repo
 	<td>
  		Week 8: <strong>Visualize</strong> <br> Oct 27 <br>Tuesday <br> API's + Data </td>
  		<td>
- 		<ul>
-		<li> Show + Tell </li>
-		<li> Studio Time: Exercise 6  </li>
-		</ul>
+ 		Studio Time: Exercise 6  <br>
+		 Show + Tell ---> Travis 
+		
 		</td>
 		
 		<td>
@@ -399,10 +398,9 @@ Creative Coding Syllabus &amp; Class repo
 	Exercise 6 DUE </strong>
 	</td>
 	<td>
-	<ul>
-	<li> Workshop </li>
-		<li> Show + Tell </li>
-		</ul>
+	 Workshop <br>
+		 Show + Tell ---> Calvin
+		
 		</td>
 
 		<td> TBA </td>
@@ -411,7 +409,9 @@ Creative Coding Syllabus &amp; Class repo
 <tr>
 <td>
 	Week 9: <strong> Simulate </strong><br> Nov 5 <br>Thursday </td>
-	<td> Vectors </td>
+	<td> Vectors <br>
+	Show + Tell ---> Kimberly
+	</td>
 	<td>
 	<ul>
 
@@ -427,10 +427,10 @@ Creative Coding Syllabus &amp; Class repo
 
 	Week 10: <strong> Simulate </strong><br> Nov 10 <br>Tuesday </td>
 	<td>
-	<ul>
-	<li> Forces </li>
-		<li> Show + Tell </li>
-		</ul>
+	
+	Forces <br>
+		 Show + Tell ---> Orlando
+		
 		</td>
 	<td>
 	<ul>
@@ -450,7 +450,9 @@ Creative Coding Syllabus &amp; Class repo
 
 <tr>
 <td> Week 10: <strong>Simulate </strong> <br> Nov 12 <br>Thursday </td>
-<td> Paricle Systems </td>
+<td> Paricle Systems <br>
+ Show + Tell ---> Bella
+</td>
 <td>
 	<ul>
 			<li> Read NoC - Ch 4 </li>
@@ -470,10 +472,9 @@ Creative Coding Syllabus &amp; Class repo
 <tr>
 <td> Week 11: Nov 17 <br>Tuesday  <br> <strong>Exercise 7 DUE </strong> </td> <
 <td> 
-<ul>
-<li> Sound </li>
-<li> Roundtable for final projects </li>
-<li> Show + Tell </li>
+ Sound <br>
+ Roundtable for final projects 
+
 </ul>
 
  </td>
@@ -492,12 +493,8 @@ Creative Coding Syllabus &amp; Class repo
 
 <td> Topics By Request (Video, 3D, CV, Kinect, IoT, external libraries...)
 
-	<ul>
-	<li>
-	Push Progress to your GitHub Repo </li>
 
-	<li> Show + Tell </li>
-	</ul>
+	 Show + Tell ---> Jonatan
 	</td>
 
 	<td> Work on your Final Project </td>
@@ -509,7 +506,7 @@ Creative Coding Syllabus &amp; Class repo
 
 	Week 12: Dec 1 <br>Tuesday </td>
 
-	<td> Topics by Request  <br> Push Progress to your GitHub Repo</td>
+	<td> Topics by Request  <br>  Show + Tell ---> Tamar </td>
 
 	<td>
 	<ul>
@@ -523,10 +520,9 @@ Creative Coding Syllabus &amp; Class repo
 <tr>
 <td> Week 13: Dec 3<br> Thursday </td>
 <td> Topics By Request (Video, 3D, CV, Kinect, IoT, external libraries...)
-<ul>
-	<li> Push Progress to your GitHub Repo </li>
-	<li> Show + Tell </li>
-	<li> Studio Time </li>
+ 
+	Show + Tell ---> Isabel <br>
+	Studio Time
 	</ul>
 	</td>
 	<td>
