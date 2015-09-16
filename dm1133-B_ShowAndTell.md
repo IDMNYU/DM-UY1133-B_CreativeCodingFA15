@@ -15,6 +15,8 @@ You will be assigned a Show and Tell presentation date. See the calendar. Please
 
 • [THOUGHTS ON PUBLIC SPEAKING BY ZACH HOLMAN](http://speaking.io/) Click the links!!!
 
+• [Advice from TED's Speaker coaches](http://blog.ted.com/a-ted-speaker-coach-shares-11-tips-for-right-before-you-go-on-stage/?utm_campaign=social&utm_medium=referral&utm_source=facebook.com&utm_content=ted-blog&utm_term=humanities)
+
 • Create a 5-7 minutes presentation (pdf, powerpoint, keynote, quicktime, etc.)
 
 • Decide whether or not you want to mirror your presentation or not (if you're using presentation tools - ie, notes)

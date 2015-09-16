@@ -5,7 +5,17 @@
 * **Office Hours: Tues + Thur 2:20-3pm, otherwise by appointment** 
 * **Office Location: NYU Media and Games Network, 2 Metrotech Center Room 884**
 
-### Required Materials
+###CREATIVE CODING LAB
+Every Friday 
+1-3pm
+MAGNET 824 (Audio Lab)
+Contact: helencarey@nyu.edu
+
+exceptions:
+No Coding Lab on 9/25 due to NYC Media Lab Annual Summit
+
+
+### Required Course Materials
 • [Learning Processing, SECOND EDITION by Daniel Shiffman] (http://learningprocessing.com/) ISBN-13: 978-0123944436 LP
 This book is available for purchase in the NYU bookstore, and will be physically on reserve at the NYU School of Engineering library. You can check the status of the book [here](http://library.nyu.edu/). This book in it's initial edition is available as an online book via [here](http://bobcat.library.nyu.edu).
 
@@ -93,6 +103,8 @@ This book is available for purchase in the NYU bookstore, and will be on reserve
 
 • [Nature of Code (Daniel Shiffman, video lectures)](https://vimeo.com/channels/natureofcode/videos/page:1/sort:preset)
 
+• http://www.openprocessing.org/
+
 • http://funprogramming.org/
 
 • http://forum.processing.org/
@@ -116,6 +128,8 @@ This book is available for purchase in the NYU bookstore, and will be on reserve
 • http://p5js.org/tutorials/
 
 • http://gitbookio.gitbooks.io/javascript/content/
+
+• [P5.js sketchpad](http://p5js.sketchpad.cc/sp/padlist/all-portfolio-sketches)
 
 ###Text Editors
 
