@@ -127,9 +127,15 @@ This book is available for purchase in the NYU bookstore, and will be on reserve
 
 • http://p5js.org/tutorials/
 
+• http://p5js.org/get-started/
+
+• https://github.com/processing/p5.js/wiki/JavaScript-basics
+
 • http://gitbookio.gitbooks.io/javascript/content/
 
 • [P5.js sketchpad](http://p5js.sketchpad.cc/sp/padlist/all-portfolio-sketches)
+
+• [More about arrays in Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
 
 ###Text Editors
 
