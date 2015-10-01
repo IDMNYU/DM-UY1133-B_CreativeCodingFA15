@@ -1,4 +1,8 @@
+// Learning Processing
+// Daniel Shiffman
+// http://www.learningprocessing.com
 
+// Exercise 7-9: Multiple Zoogs with functions
 
 function setup() {
     createCanvas(400, 400);

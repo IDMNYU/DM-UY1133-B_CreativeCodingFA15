@@ -1,3 +1,9 @@
+// Modified from:
+// Learning Processing
+// Daniel Shiffman
+// http://www.learningprocessing.com
+
+// Example 15-3: Swapping images
 
 var names = [];
 var images = [];

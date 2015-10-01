@@ -1,3 +1,9 @@
+// Learning Processing
+// Daniel Shiffman
+// http://www.learningprocessing.com
+
+// Example 7-3: Bouncing ball with functions
+
 var x  = 0;
 var speed = 1;
 
