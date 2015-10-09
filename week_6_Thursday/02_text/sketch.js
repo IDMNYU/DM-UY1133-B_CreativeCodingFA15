@@ -10,7 +10,7 @@ var x = 0;
 
 function preload(){
 	allTheText = loadStrings('data/aliceinwonderland.txt');
-	theFont = loadFont('data/font1.otg');
+	theFont = loadFont('data/NexaRustScriptL.otf');
 }
 
 function setup(){
