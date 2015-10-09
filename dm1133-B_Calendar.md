@@ -291,7 +291,7 @@ Creative Coding Syllabus &amp; Class repo
 
 <tr>
 <td>
-	Week 6: <strong> Transform </strong><br> Oct 13<br> Tuesday <br> <strong> EXERCISE 3 DUE to GitHub at 12:30pm <br> <br> </strong>
+	Week 6: <strong> Transform </strong><br> Oct 13<br> Tuesday <br> <strong>  <br> <br> </strong>
 	<td>
 	<td> <strong>NO CLASS (Legislative Day)  </strong> </td>
 <tr>
@@ -299,7 +299,7 @@ Creative Coding Syllabus &amp; Class repo
 <tr>
 <td>
 
-	Week 6: <strong> Transform</strong> <br> Oct 15<br> Thursday </td>
+	Week 6: <strong> Transform</strong> <br> Oct 15<br> Thursday </td> <strong>  <br> EXERCISE 4 DUE to GitHub at 9:58 am <br> </strong>
 
 	<td>
 	
