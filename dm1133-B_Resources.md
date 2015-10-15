@@ -57,6 +57,8 @@ This book is available for purchase in the NYU bookstore, and will be on reserve
 
 • Douglas Rushkoff’s Program or Be Programmed (emailed)
 
+• [Tipes on Debugging](https://vimeo.com/channels/debugging)
+
 
 ### Fabulous References and Supporting Resources
 #### Programming (general) and other languages
@@ -142,6 +144,13 @@ This book is available for purchase in the NYU bookstore, and will be on reserve
 • [Brackets](https://github.com/adobe/brackets/wiki/How-to-Use-Brackets)
 
 • [Sublime](https://scotch.io/bar-talk/the-complete-visual-guide-to-sublime-text-3-getting-started-and-keyboard-shortcuts)
+
+###Node.js 
+
+• [Intro to Node.js](https://www.youtube.com/watch?v=pU9Q6oiQNd0)
+
+• [Fundamentals to Node.js](https://www.youtube.com/watch?v=FVdH9YcB3Dg)
+•
 
 
 ####openFrameworks
