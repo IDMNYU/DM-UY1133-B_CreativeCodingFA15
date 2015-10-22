@@ -129,6 +129,8 @@ This book is available for purchase in the NYU bookstore, and will be on reserve
 
 • http://p5js.org/tutorials/
 
+• [Dan Shiffman Tutorials](https://youtu.be/8j0UDiN7my4?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+
 • http://p5js.org/get-started/
 
 • https://github.com/processing/p5.js/wiki/JavaScript-basics
