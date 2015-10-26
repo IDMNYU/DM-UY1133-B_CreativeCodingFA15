@@ -286,7 +286,10 @@ For each project your grade will be assessed upon the following: Principles, Cre
 
 • Unexceptable - D/F - Little or no development of technique; is unable or unwilling to accept critique; unable to make adjustments.
 
+#### Late Work
+Unless specified, work is due the following class period.
 
+Work that is turned in after the due date & time, but same day, get's 1/3 letter grade deduction. Work that is turned in the same week, get's 2/3 grade deduction. Subsequent submissions get one letter grade deduction for ever week that it is late, beyond the first week. Deductions are calculated after the initial grade is given.
 
 
 #### The numerical breakdown for letter grades is as follows:
