@@ -385,7 +385,9 @@ Creative Coding Syllabus &amp; Class repo
 		<ul>
 			<li> Read: LP - Ch 18 </li>
 			<li> Read: GD - M.6 </li>
-			<li> Exercise 6 </li>
+			<li> Read: Make Getting Started with P5.js Ch. 12 </li>
+			<li> Exercise 7 </li>
+			<li> <a href = "https://github.com/processing/p5.js/wiki/Local-server"> Set up a Node.js Server </a> </li>
 			</ul>
 			</td>
 			</tr>

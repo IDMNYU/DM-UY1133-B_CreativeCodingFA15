@@ -143,18 +143,23 @@ This book is available for purchase in the NYU bookstore, and will be on reserve
 
 • [More about arrays in Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
 
+• [API's] (https://github.com/processing/p5.js/wiki/Loading-external-files:-AJAX,-XML,-JSON)
+
 ###Text Editors
 
 • [Brackets](https://github.com/adobe/brackets/wiki/How-to-Use-Brackets)
 
 • [Sublime](https://scotch.io/bar-talk/the-complete-visual-guide-to-sublime-text-3-getting-started-and-keyboard-shortcuts)
 
+
+
 ###Node.js 
 
 • [Intro to Node.js](https://www.youtube.com/watch?v=pU9Q6oiQNd0)
 
 • [Fundamentals to Node.js](https://www.youtube.com/watch?v=FVdH9YcB3Dg)
-•
+
+• [Setting up a Node.js Server](https://github.com/processing/p5.js/wiki/Local-server)
 
 
 ####openFrameworks
