@@ -1,0 +1,38 @@
+{
+	"coord":{
+		"lon":-74.01,
+		"lat":40.71
+		},
+	"weather":[
+			{
+				"id":800,
+				"main":"Clear",
+				"description":"Sky is Clear",
+				"icon":"01n"
+				}],
+	"base":"cmc stations",
+	"main":{
+			"temp":42.87,
+			"pressure":1031.09,
+			"humidity":65,
+			"temp_min":42.87,
+			"temp_max":42.87,
+			"sea_level":1045.47,
+			"grnd_level":1031.09
+			},
+			"wind":{
+				"speed":4.23,
+				"deg":66.5035
+				},
+			"clouds":{"all":0},
+			"dt":1445905792,
+			"sys":{
+				"message":0.0033,
+				"country":"US",
+				"sunrise":1445944816,
+				"sunset":1445983136
+				},
+			"id":5128581,
+			"name":"New York",
+			"cod":200
+}
