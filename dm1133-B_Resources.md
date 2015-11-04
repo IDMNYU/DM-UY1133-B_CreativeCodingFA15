@@ -163,6 +163,27 @@ This book is available for purchase in the NYU bookstore, and will be on reserve
 
 • [Setting up a Node.js Server](https://github.com/processing/p5.js/wiki/Local-server)
 
+• [Installing Node.js & NPM on Windows](http://blog.teamtreehouse.com/install-node-js-npm-windows)
+
+• [Installing Node.js & NPM on Mac](http://blog.teamtreehouse.com/install-node-js-npm-mac)
+
+• [More installation options/methods](https://nodejs.org/en/download/package-manager/)
+
+####Command Line Prompt
+
+• [Unix Commands Mac](http://mally.stanford.edu/~sr/computing/basic-unix.html)
+
+• [More Unix Commands Mac](http://www.ucs.cam.ac.uk/docs/leaflets/u5)
+
+• [Unix Guide](http://freeengineer.org/learnUNIXin10minutes.html)
+
+• [Guide for Windows](http://www.computerhope.com/issues/chusedos.htm)
+
+• [MS-Dos](http://www.computerhope.com/msdos.htm)
+
+• [More Windows Commands](http://simplyadvanced.net/blog/cheat-sheet-for-windows-command-prompt/)
+
+• [XP Commands](https://www.microsoft.com/resources/documentation/windows/xp/all/proddocs/en-us/ntcmds.mspx?mfr=true)
 
 ####openFrameworks
 

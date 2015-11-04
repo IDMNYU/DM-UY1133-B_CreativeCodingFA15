@@ -29,7 +29,7 @@ function handleRequest(req, res){
 	}
 
 	// what is it? default to plain text
-	var contentType = typeExt[ext] || 'test/plain';
+	var contentType = typeExt[ext] || 'text/plain';
 	// now read and write back the file w/the appropriate content type
 	// file system module
 	fs.readFile(__dirname + pathname,
