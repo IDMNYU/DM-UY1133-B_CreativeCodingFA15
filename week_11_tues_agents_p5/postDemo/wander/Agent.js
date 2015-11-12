@@ -2,40 +2,42 @@ function Agent(tempX, tempY, _maxSpeed, _maxForce){
 	this.bigC = 40;
     this.littleC = 30; 
     this.max = 10;
+    this.r = 6;
     this.location = createVector(tempX, tempY);
     this.velocity = createVector(0, 0);
     this.acceleration = createVector(0, 0);
 
     this.maxSpeed = _maxSpeed;
-    this.wandertheta = 0;
-
     this.maxForce = _maxForce;
-    this.r = 6;
+    this.wandertheta = 0;
 
 }
 
 Agent.prototype.update = function(){
-    this.velocity.add(this.acceleration);  // we actively manipulating velcity
+    this.velocity.add(this.acceleration);
     this.velocity.limit(this.max);
     this.location.add(this.velocity);
     this.acceleration.mult(0);
 
 }
 
-Agent.prototype.wander= function(){
-    var wanderD = 100; // this distance from the wander circle
-    var wanderR = 5; // radius for the wander circle
-    var change = 0.3; // pick a new point along a circle
+Agent.prototype.wander = function(){
+  
+    var wanderD = 100; //distance from the wander circle
+    var wanderR = 5;  // radius for the wander circle
+    var change = 0.3;  // pick a new point along that circle
     this.wandertheta += random(-change, change);
     var circleLoc = this.velocity.copy();
-    circleLoc.normalize();  // normailizeing to get the heading, or the direction
-    circleLoc.mult(wanderD);  // multiple by the distance
-    circleLoc.add(this.location); // making it relevant to the agent
-    var h = this.velocity.heading();  // direction i'm currently point
-    var circleOffSet = createVector(wanderR*cos(this.wandertheta + h), wanderR*sin(this.wandertheta + h) );
+    circleLoc.normalize();       //normalize to get the heading
+    circleLoc.mult(wanderD);    //multiply by distance
+    circleLoc.add(this.location);   //make relative to the agent
+    var h = this.velocity.heading();  // we need to know the heading to offset the wandertheta
+    var circleOffSet = createVector(wanderR*cos(this.wandertheta + h), wanderR*sin(this.wandertheta+h));
+  
     var target = p5.Vector.add(circleLoc, circleOffSet);
-
+    
     this.seek(target);
+
 
 }
 
@@ -44,16 +46,13 @@ Agent.prototype.seek = function(loc){
     desired.normalize();
     desired.mult(this.maxForce);
     var steer = p5.Vector.sub(desired, this.velocity);
-    steer.limit(this.maxForce);
+    steer.limit(this.maxForce); 
     this.acceleration.add(steer);
-
 }
 
 
 
 Agent.prototype.arrive = function(target){
-    //calling static method of p5 vector class subtraction, addition
-    // new a new P Vector
     var desired = p5.Vector.sub(target, this.location);
     var d = desired.mag();
     if( d < 100){
@@ -67,8 +66,8 @@ Agent.prototype.arrive = function(target){
     steer.limit(this.maxForce);
     this.acceleration.add(steer);
 
-    
 }
+
 
 Agent.prototype.borders = function(){
     if(this.location.x < -this.r){

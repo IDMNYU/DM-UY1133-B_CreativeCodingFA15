@@ -7,9 +7,8 @@ function Enemy(x, y, _maxSpeed, _maxForce){
 	this.bigC = 40;
 	this.littleC = 30;
 
+	this._maxSpeed + _maxSpeed;
 	this.maxForce = _maxForce;
-	this.maxSpeed = _maxSpeed;
-	this.max = 3;
 }
 
 Enemy.prototype.update = function(){
@@ -18,6 +17,15 @@ Enemy.prototype.update = function(){
 	this.location.add(this.velocity);
 	this.acceleration.mult(0);
 	
+}
+
+Enemy.prototype.seek = function(a){
+	var desired = p5.Vector.sub(a.location, this.location);
+	desired.normalize();
+	desired.mult(this.maxForce);
+	var steer = p5.Vector.sub(desired, this.velocity);
+	steer.limit(this.maxForce); 
+    this.acceleration.add(steer);
 }
 
 Enemy.prototype.turn = function(a){
@@ -36,14 +44,6 @@ Enemy.prototype.turn = function(a){
 
 }
 
-Enemy.prototype.seek = function(a){
-	var desired = p5.Vector.sub(a.location, this.location);
-	desired.normalize();
-	desired.mult(this.maxForce); // make sure you've declared this variable
-	var steer = p5.Vector.sub(desired, this.velocity);
-	steer.limit(this.max);
-	this.acceleration.add(steer);
-}
 
 Enemy.prototype.display = function(c){
 	noStroke();
