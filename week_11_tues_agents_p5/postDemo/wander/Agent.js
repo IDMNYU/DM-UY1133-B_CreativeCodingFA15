@@ -23,8 +23,8 @@ Agent.prototype.update = function(){
 
 Agent.prototype.wander = function(){
   
-    var wanderD = 100; //distance from the wander circle
-    var wanderR = 5;  // radius for the wander circle
+    var wanderD = 100; //distance from the wander circle try: 50, 80
+    var wanderR = 10;  // radius for the wander circle   try: 5, 25
     var change = 0.3;  // pick a new point along that circle
     this.wandertheta += random(-change, change);
     var circleLoc = this.velocity.copy();
@@ -37,6 +37,10 @@ Agent.prototype.wander = function(){
     var target = p5.Vector.add(circleLoc, circleOffSet);
     
     this.seek(target);
+    if (debug) {
+        this.drawWanderStuff(this.location, circleLoc, target, wanderR);
+        
+    }
 
 
 }
@@ -66,6 +70,16 @@ Agent.prototype.arrive = function(target){
     steer.limit(this.maxForce);
     this.acceleration.add(steer);
 
+}
+
+Agent.prototype.drawWanderStuff = function(location, circle, target, rad){
+    stroke(255);
+    //noFill();
+    ellipseMode(CENTER);
+    ellipse(target.x, target.y, 2, 2);
+    ellipse(circle.x, circle.y, rad*2, rad*2);
+    line(location.x, location.y, circle.x, circle.y);
+    line(circle.x, circle.y, target.x, target.y);
 }
 
 
