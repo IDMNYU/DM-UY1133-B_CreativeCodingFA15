@@ -56,8 +56,16 @@ Nov 12 - Karolina Sobecka, N-e-r-v-o-u-s-S-y-s-t-e-m ---> Bella
 
 Nov 24 - Eno Henze, Dedric Kiefer ---> Jonatan 
 
-Dec 1 - Lauren McCarthy, Future Cities Lab ---> Tamar
+Dec 1 - Karolina Sobecka, N-e-r-v-o-u-s-S-y-s-t-e-m ---> Bella
+		Eno Henze, Dedric Kiefer ---> Jonatan 
 
 Dec 3 - Paul Prudence, Moment Factory ---> Isabel
+		Lauren McCarthy, Future Cities Lab ---> Tamar
+
+Dec 8 - Ryan Habbyshaw, Cogaz ---> Jason
+		Lia, Santiago Ortiz (Moebio.com) ---> Sharon
+
+Dec 10 - Buffer
+
 
 Extra Credit Possibilities:  Jeff Crouse, Similar Diversity (by Philipp Steinweber and Andreas Koller), Poetry on the Road, ...

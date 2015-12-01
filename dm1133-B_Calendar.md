@@ -509,7 +509,7 @@ Creative Coding Syllabus &amp; Class repo
 
 	Week 12: Dec 1 <br>Tuesday </td>
 
-	<td> Topics by Request  <br>  Show + Tell ---> Tamar </td>
+	<td> Topics by Request  <br>  Show + Tell ---> Bella & Jonatan </td>
 
 	<td>
 	<ul>
@@ -524,7 +524,7 @@ Creative Coding Syllabus &amp; Class repo
 <td> Week 13: Dec 3<br> Thursday </td>
 <td> Topics By Request (Video, 3D, CV, Kinect, IoT, external libraries...)
  
-	Show + Tell ---> Isabel <br>
+	Show + Tell ---> Isabel & Tamar <br>
 	Studio Time
 	</ul>
 	</td>
@@ -542,6 +542,7 @@ Creative Coding Syllabus &amp; Class repo
 
 	<td> Topics By Request (Video, 3D, CV, Kinect, IoT, external libraries...)
 <ul>
+<li> Show & Tell ---> Jason & Sharon </li>
 	<li> Push Progress to your GitHub Repo </li>
 
 	<li> Studio Time </li>
@@ -593,7 +594,7 @@ Creative Coding Syllabus &amp; Class repo
 
 
  <td> Week 15: Dec 17 <br> Thursday </td>
- <td> Final Presentations <td>
+ <td> Final Presentations 12:30 - 3:30 in 812<td>
  <td> Document and turn in all documentation and files </td>
  
 </tr>
